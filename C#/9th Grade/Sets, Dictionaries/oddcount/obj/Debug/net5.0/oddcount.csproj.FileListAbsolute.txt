@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\sets and dictionaries\oddcount\bin\Debug\net5.0\oddcount.exe
+C:\Users\rmink\source\repos\sets and dictionaries\oddcount\bin\Debug\net5.0\oddcount.deps.json
+C:\Users\rmink\source\repos\sets and dictionaries\oddcount\bin\Debug\net5.0\oddcount.runtimeconfig.json
+C:\Users\rmink\source\repos\sets and dictionaries\oddcount\bin\Debug\net5.0\oddcount.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\sets and dictionaries\oddcount\bin\Debug\net5.0\oddcount.dll
+C:\Users\rmink\source\repos\sets and dictionaries\oddcount\bin\Debug\net5.0\ref\oddcount.dll
+C:\Users\rmink\source\repos\sets and dictionaries\oddcount\bin\Debug\net5.0\oddcount.pdb
+C:\Users\rmink\source\repos\sets and dictionaries\oddcount\obj\Debug\net5.0\oddcount.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\sets and dictionaries\oddcount\obj\Debug\net5.0\oddcount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\sets and dictionaries\oddcount\obj\Debug\net5.0\oddcount.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\sets and dictionaries\oddcount\obj\Debug\net5.0\oddcount.AssemblyInfo.cs
+C:\Users\rmink\source\repos\sets and dictionaries\oddcount\obj\Debug\net5.0\oddcount.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\sets and dictionaries\oddcount\obj\Debug\net5.0\oddcount.dll
+C:\Users\rmink\source\repos\sets and dictionaries\oddcount\obj\Debug\net5.0\ref\oddcount.dll
+C:\Users\rmink\source\repos\sets and dictionaries\oddcount\obj\Debug\net5.0\oddcount.pdb
+C:\Users\rmink\source\repos\sets and dictionaries\oddcount\obj\Debug\net5.0\oddcount.genruntimeconfig.cache

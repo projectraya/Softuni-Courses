@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\loopspak\building\bin\Debug\netcoreapp3.1\building.exe
+C:\Users\rmink\source\repos\loopspak\building\bin\Debug\netcoreapp3.1\building.deps.json
+C:\Users\rmink\source\repos\loopspak\building\bin\Debug\netcoreapp3.1\building.runtimeconfig.json
+C:\Users\rmink\source\repos\loopspak\building\bin\Debug\netcoreapp3.1\building.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\loopspak\building\bin\Debug\netcoreapp3.1\building.dll
+C:\Users\rmink\source\repos\loopspak\building\bin\Debug\netcoreapp3.1\building.pdb
+C:\Users\rmink\source\repos\loopspak\building\obj\Debug\netcoreapp3.1\building.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\loopspak\building\obj\Debug\netcoreapp3.1\building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\loopspak\building\obj\Debug\netcoreapp3.1\building.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\loopspak\building\obj\Debug\netcoreapp3.1\building.AssemblyInfo.cs
+C:\Users\rmink\source\repos\loopspak\building\obj\Debug\netcoreapp3.1\building.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\loopspak\building\obj\Debug\netcoreapp3.1\building.dll
+C:\Users\rmink\source\repos\loopspak\building\obj\Debug\netcoreapp3.1\building.pdb
+C:\Users\rmink\source\repos\loopspak\building\obj\Debug\netcoreapp3.1\building.genruntimeconfig.cache

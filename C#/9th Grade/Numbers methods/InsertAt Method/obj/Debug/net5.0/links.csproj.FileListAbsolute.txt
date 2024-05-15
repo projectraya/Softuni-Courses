@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\links\links\bin\Debug\net5.0\links.exe
+C:\Users\rmink\source\repos\links\links\bin\Debug\net5.0\links.deps.json
+C:\Users\rmink\source\repos\links\links\bin\Debug\net5.0\links.runtimeconfig.json
+C:\Users\rmink\source\repos\links\links\bin\Debug\net5.0\links.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\links\links\bin\Debug\net5.0\links.dll
+C:\Users\rmink\source\repos\links\links\bin\Debug\net5.0\ref\links.dll
+C:\Users\rmink\source\repos\links\links\bin\Debug\net5.0\links.pdb
+C:\Users\rmink\source\repos\links\links\obj\Debug\net5.0\links.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\links\links\obj\Debug\net5.0\links.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\links\links\obj\Debug\net5.0\links.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\links\links\obj\Debug\net5.0\links.AssemblyInfo.cs
+C:\Users\rmink\source\repos\links\links\obj\Debug\net5.0\links.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\links\links\obj\Debug\net5.0\links.dll
+C:\Users\rmink\source\repos\links\links\obj\Debug\net5.0\ref\links.dll
+C:\Users\rmink\source\repos\links\links\obj\Debug\net5.0\links.pdb
+C:\Users\rmink\source\repos\links\links\obj\Debug\net5.0\links.genruntimeconfig.cache

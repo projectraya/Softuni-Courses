@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\whileloop\balance\bin\Debug\netcoreapp3.1\balance.exe
+C:\Users\rmink\source\repos\whileloop\balance\bin\Debug\netcoreapp3.1\balance.deps.json
+C:\Users\rmink\source\repos\whileloop\balance\bin\Debug\netcoreapp3.1\balance.runtimeconfig.json
+C:\Users\rmink\source\repos\whileloop\balance\bin\Debug\netcoreapp3.1\balance.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\whileloop\balance\bin\Debug\netcoreapp3.1\balance.dll
+C:\Users\rmink\source\repos\whileloop\balance\bin\Debug\netcoreapp3.1\balance.pdb
+C:\Users\rmink\source\repos\whileloop\balance\obj\Debug\netcoreapp3.1\balance.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\whileloop\balance\obj\Debug\netcoreapp3.1\balance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\whileloop\balance\obj\Debug\netcoreapp3.1\balance.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\whileloop\balance\obj\Debug\netcoreapp3.1\balance.AssemblyInfo.cs
+C:\Users\rmink\source\repos\whileloop\balance\obj\Debug\netcoreapp3.1\balance.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\whileloop\balance\obj\Debug\netcoreapp3.1\balance.dll
+C:\Users\rmink\source\repos\whileloop\balance\obj\Debug\netcoreapp3.1\balance.pdb
+C:\Users\rmink\source\repos\whileloop\balance\obj\Debug\netcoreapp3.1\balance.genruntimeconfig.cache

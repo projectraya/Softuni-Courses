@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\methods\calculations\bin\Debug\net5.0\calculations.exe
+C:\Users\rmink\source\repos\methods\calculations\bin\Debug\net5.0\calculations.deps.json
+C:\Users\rmink\source\repos\methods\calculations\bin\Debug\net5.0\calculations.runtimeconfig.json
+C:\Users\rmink\source\repos\methods\calculations\bin\Debug\net5.0\calculations.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\methods\calculations\bin\Debug\net5.0\calculations.dll
+C:\Users\rmink\source\repos\methods\calculations\bin\Debug\net5.0\ref\calculations.dll
+C:\Users\rmink\source\repos\methods\calculations\bin\Debug\net5.0\calculations.pdb
+C:\Users\rmink\source\repos\methods\calculations\obj\Debug\net5.0\calculations.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\methods\calculations\obj\Debug\net5.0\calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\methods\calculations\obj\Debug\net5.0\calculations.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\methods\calculations\obj\Debug\net5.0\calculations.AssemblyInfo.cs
+C:\Users\rmink\source\repos\methods\calculations\obj\Debug\net5.0\calculations.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\methods\calculations\obj\Debug\net5.0\calculations.dll
+C:\Users\rmink\source\repos\methods\calculations\obj\Debug\net5.0\ref\calculations.dll
+C:\Users\rmink\source\repos\methods\calculations\obj\Debug\net5.0\calculations.pdb
+C:\Users\rmink\source\repos\methods\calculations\obj\Debug\net5.0\calculations.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\rmink\source\repos\HelloSoftuni\HelloSoftuni\bin\Debug\net6.0\HelloSoftuni.exe
+C:\Users\rmink\source\repos\HelloSoftuni\HelloSoftuni\bin\Debug\net6.0\HelloSoftuni.deps.json
+C:\Users\rmink\source\repos\HelloSoftuni\HelloSoftuni\bin\Debug\net6.0\HelloSoftuni.runtimeconfig.json
+C:\Users\rmink\source\repos\HelloSoftuni\HelloSoftuni\bin\Debug\net6.0\HelloSoftuni.dll
+C:\Users\rmink\source\repos\HelloSoftuni\HelloSoftuni\bin\Debug\net6.0\ref\HelloSoftuni.dll
+C:\Users\rmink\source\repos\HelloSoftuni\HelloSoftuni\bin\Debug\net6.0\HelloSoftuni.pdb
+C:\Users\rmink\source\repos\HelloSoftuni\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\HelloSoftuni\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\HelloSoftuni\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\HelloSoftuni\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.AssemblyInfo.cs
+C:\Users\rmink\source\repos\HelloSoftuni\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\HelloSoftuni\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.dll
+C:\Users\rmink\source\repos\HelloSoftuni\HelloSoftuni\obj\Debug\net6.0\ref\HelloSoftuni.dll
+C:\Users\rmink\source\repos\HelloSoftuni\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.pdb
+C:\Users\rmink\source\repos\HelloSoftuni\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.genruntimeconfig.cache

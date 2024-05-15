@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\zadachi\vreme 15 min\bin\Debug\netcoreapp3.1\vreme 15 min.exe
+C:\Users\rmink\source\repos\zadachi\vreme 15 min\bin\Debug\netcoreapp3.1\vreme 15 min.deps.json
+C:\Users\rmink\source\repos\zadachi\vreme 15 min\bin\Debug\netcoreapp3.1\vreme 15 min.runtimeconfig.json
+C:\Users\rmink\source\repos\zadachi\vreme 15 min\bin\Debug\netcoreapp3.1\vreme 15 min.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\zadachi\vreme 15 min\bin\Debug\netcoreapp3.1\vreme 15 min.dll
+C:\Users\rmink\source\repos\zadachi\vreme 15 min\bin\Debug\netcoreapp3.1\vreme 15 min.pdb
+C:\Users\rmink\source\repos\zadachi\vreme 15 min\obj\Debug\netcoreapp3.1\vreme 15 min.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\zadachi\vreme 15 min\obj\Debug\netcoreapp3.1\vreme 15 min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\zadachi\vreme 15 min\obj\Debug\netcoreapp3.1\vreme 15 min.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\zadachi\vreme 15 min\obj\Debug\netcoreapp3.1\vreme 15 min.AssemblyInfo.cs
+C:\Users\rmink\source\repos\zadachi\vreme 15 min\obj\Debug\netcoreapp3.1\vreme 15 min.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\zadachi\vreme 15 min\obj\Debug\netcoreapp3.1\vreme 15 min.dll
+C:\Users\rmink\source\repos\zadachi\vreme 15 min\obj\Debug\netcoreapp3.1\vreme 15 min.pdb
+C:\Users\rmink\source\repos\zadachi\vreme 15 min\obj\Debug\netcoreapp3.1\vreme 15 min.genruntimeconfig.cache

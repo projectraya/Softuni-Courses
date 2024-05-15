@@ -1,0 +1,13 @@
+C:\Users\rmink\source\repos\nested conditionals\lodka\bin\Debug\netcoreapp3.1\lodka.exe
+C:\Users\rmink\source\repos\nested conditionals\lodka\bin\Debug\netcoreapp3.1\lodka.deps.json
+C:\Users\rmink\source\repos\nested conditionals\lodka\bin\Debug\netcoreapp3.1\lodka.runtimeconfig.json
+C:\Users\rmink\source\repos\nested conditionals\lodka\bin\Debug\netcoreapp3.1\lodka.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\nested conditionals\lodka\bin\Debug\netcoreapp3.1\lodka.dll
+C:\Users\rmink\source\repos\nested conditionals\lodka\bin\Debug\netcoreapp3.1\lodka.pdb
+C:\Users\rmink\source\repos\nested conditionals\lodka\obj\Debug\netcoreapp3.1\lodka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\nested conditionals\lodka\obj\Debug\netcoreapp3.1\lodka.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\nested conditionals\lodka\obj\Debug\netcoreapp3.1\lodka.AssemblyInfo.cs
+C:\Users\rmink\source\repos\nested conditionals\lodka\obj\Debug\netcoreapp3.1\lodka.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\nested conditionals\lodka\obj\Debug\netcoreapp3.1\lodka.dll
+C:\Users\rmink\source\repos\nested conditionals\lodka\obj\Debug\netcoreapp3.1\lodka.pdb
+C:\Users\rmink\source\repos\nested conditionals\lodka\obj\Debug\netcoreapp3.1\lodka.genruntimeconfig.cache

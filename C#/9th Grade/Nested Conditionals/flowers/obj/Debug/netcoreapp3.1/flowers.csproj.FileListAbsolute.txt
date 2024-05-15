@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\nested conditionals\flowers\bin\Debug\netcoreapp3.1\flowers.exe
+C:\Users\rmink\source\repos\nested conditionals\flowers\bin\Debug\netcoreapp3.1\flowers.deps.json
+C:\Users\rmink\source\repos\nested conditionals\flowers\bin\Debug\netcoreapp3.1\flowers.runtimeconfig.json
+C:\Users\rmink\source\repos\nested conditionals\flowers\bin\Debug\netcoreapp3.1\flowers.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\nested conditionals\flowers\bin\Debug\netcoreapp3.1\flowers.dll
+C:\Users\rmink\source\repos\nested conditionals\flowers\bin\Debug\netcoreapp3.1\flowers.pdb
+C:\Users\rmink\source\repos\nested conditionals\flowers\obj\Debug\netcoreapp3.1\flowers.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\nested conditionals\flowers\obj\Debug\netcoreapp3.1\flowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\nested conditionals\flowers\obj\Debug\netcoreapp3.1\flowers.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\nested conditionals\flowers\obj\Debug\netcoreapp3.1\flowers.AssemblyInfo.cs
+C:\Users\rmink\source\repos\nested conditionals\flowers\obj\Debug\netcoreapp3.1\flowers.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\nested conditionals\flowers\obj\Debug\netcoreapp3.1\flowers.dll
+C:\Users\rmink\source\repos\nested conditionals\flowers\obj\Debug\netcoreapp3.1\flowers.pdb
+C:\Users\rmink\source\repos\nested conditionals\flowers\obj\Debug\netcoreapp3.1\flowers.genruntimeconfig.cache

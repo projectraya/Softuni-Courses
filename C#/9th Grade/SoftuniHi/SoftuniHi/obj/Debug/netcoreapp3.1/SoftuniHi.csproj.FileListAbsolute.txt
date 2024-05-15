@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\SoftuniHi\SoftuniHi\bin\Debug\netcoreapp3.1\SoftuniHi.exe
+C:\Users\rmink\source\repos\SoftuniHi\SoftuniHi\bin\Debug\netcoreapp3.1\SoftuniHi.deps.json
+C:\Users\rmink\source\repos\SoftuniHi\SoftuniHi\bin\Debug\netcoreapp3.1\SoftuniHi.runtimeconfig.json
+C:\Users\rmink\source\repos\SoftuniHi\SoftuniHi\bin\Debug\netcoreapp3.1\SoftuniHi.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\SoftuniHi\SoftuniHi\bin\Debug\netcoreapp3.1\SoftuniHi.dll
+C:\Users\rmink\source\repos\SoftuniHi\SoftuniHi\bin\Debug\netcoreapp3.1\SoftuniHi.pdb
+C:\Users\rmink\source\repos\SoftuniHi\SoftuniHi\obj\Debug\netcoreapp3.1\SoftuniHi.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\SoftuniHi\SoftuniHi\obj\Debug\netcoreapp3.1\SoftuniHi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\SoftuniHi\SoftuniHi\obj\Debug\netcoreapp3.1\SoftuniHi.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\SoftuniHi\SoftuniHi\obj\Debug\netcoreapp3.1\SoftuniHi.AssemblyInfo.cs
+C:\Users\rmink\source\repos\SoftuniHi\SoftuniHi\obj\Debug\netcoreapp3.1\SoftuniHi.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\SoftuniHi\SoftuniHi\obj\Debug\netcoreapp3.1\SoftuniHi.dll
+C:\Users\rmink\source\repos\SoftuniHi\SoftuniHi\obj\Debug\netcoreapp3.1\SoftuniHi.pdb
+C:\Users\rmink\source\repos\SoftuniHi\SoftuniHi\obj\Debug\netcoreapp3.1\SoftuniHi.genruntimeconfig.cache

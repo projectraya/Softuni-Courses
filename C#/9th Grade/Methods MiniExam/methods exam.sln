@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "purva", "methods exam\purva.csproj", "{12275B92-C93A-4081-8CD7-CC3ECFF651DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vtora", "vtora\vtora.csproj", "{A6359246-21CB-4B26-871A-B7182530EC0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tretaa", "tretaa\tretaa.csproj", "{E9A1DC85-4E8D-49B8-9CB6-35702F1C020C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12275B92-C93A-4081-8CD7-CC3ECFF651DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12275B92-C93A-4081-8CD7-CC3ECFF651DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12275B92-C93A-4081-8CD7-CC3ECFF651DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12275B92-C93A-4081-8CD7-CC3ECFF651DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6359246-21CB-4B26-871A-B7182530EC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6359246-21CB-4B26-871A-B7182530EC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6359246-21CB-4B26-871A-B7182530EC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6359246-21CB-4B26-871A-B7182530EC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9A1DC85-4E8D-49B8-9CB6-35702F1C020C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A1DC85-4E8D-49B8-9CB6-35702F1C020C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A1DC85-4E8D-49B8-9CB6-35702F1C020C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A1DC85-4E8D-49B8-9CB6-35702F1C020C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42534A93-A6D9-40B6-90F6-E2AE1DD4D983}
+	EndGlobalSection
+EndGlobal

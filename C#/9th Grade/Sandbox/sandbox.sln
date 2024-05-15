@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "brackets", "brackets\brackets.csproj", "{2C9A415E-7B44-4C29-8A0C-4A5A8F2BD58E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test", "test\test.csproj", "{F488B19E-1752-4A2B-ADE1-0828F8CB55AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{CEE29311-3673-4E29-A23B-CB3CFBB65874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C9A415E-7B44-4C29-8A0C-4A5A8F2BD58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9A415E-7B44-4C29-8A0C-4A5A8F2BD58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9A415E-7B44-4C29-8A0C-4A5A8F2BD58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9A415E-7B44-4C29-8A0C-4A5A8F2BD58E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F488B19E-1752-4A2B-ADE1-0828F8CB55AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F488B19E-1752-4A2B-ADE1-0828F8CB55AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F488B19E-1752-4A2B-ADE1-0828F8CB55AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F488B19E-1752-4A2B-ADE1-0828F8CB55AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE29311-3673-4E29-A23B-CB3CFBB65874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE29311-3673-4E29-A23B-CB3CFBB65874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE29311-3673-4E29-A23B-CB3CFBB65874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE29311-3673-4E29-A23B-CB3CFBB65874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B20E40-5144-40D8-9143-004B86629E1F}
+	EndGlobalSection
+EndGlobal

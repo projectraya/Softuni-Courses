@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\sets and dictionaries\sets and dictionaries\bin\Debug\net5.0\sets and dictionaries.exe
+C:\Users\rmink\source\repos\sets and dictionaries\sets and dictionaries\bin\Debug\net5.0\sets and dictionaries.deps.json
+C:\Users\rmink\source\repos\sets and dictionaries\sets and dictionaries\bin\Debug\net5.0\sets and dictionaries.runtimeconfig.json
+C:\Users\rmink\source\repos\sets and dictionaries\sets and dictionaries\bin\Debug\net5.0\sets and dictionaries.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\sets and dictionaries\sets and dictionaries\bin\Debug\net5.0\sets and dictionaries.dll
+C:\Users\rmink\source\repos\sets and dictionaries\sets and dictionaries\bin\Debug\net5.0\ref\sets and dictionaries.dll
+C:\Users\rmink\source\repos\sets and dictionaries\sets and dictionaries\bin\Debug\net5.0\sets and dictionaries.pdb
+C:\Users\rmink\source\repos\sets and dictionaries\sets and dictionaries\obj\Debug\net5.0\sets and dictionaries.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\sets and dictionaries\sets and dictionaries\obj\Debug\net5.0\sets and dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\sets and dictionaries\sets and dictionaries\obj\Debug\net5.0\sets and dictionaries.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\sets and dictionaries\sets and dictionaries\obj\Debug\net5.0\sets and dictionaries.AssemblyInfo.cs
+C:\Users\rmink\source\repos\sets and dictionaries\sets and dictionaries\obj\Debug\net5.0\sets and dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\sets and dictionaries\sets and dictionaries\obj\Debug\net5.0\sets and dictionaries.dll
+C:\Users\rmink\source\repos\sets and dictionaries\sets and dictionaries\obj\Debug\net5.0\ref\sets and dictionaries.dll
+C:\Users\rmink\source\repos\sets and dictionaries\sets and dictionaries\obj\Debug\net5.0\sets and dictionaries.pdb
+C:\Users\rmink\source\repos\sets and dictionaries\sets and dictionaries\obj\Debug\net5.0\sets and dictionaries.genruntimeconfig.cache

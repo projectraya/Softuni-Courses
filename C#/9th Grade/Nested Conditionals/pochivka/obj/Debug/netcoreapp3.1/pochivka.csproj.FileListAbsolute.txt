@@ -1,0 +1,13 @@
+C:\Users\rmink\source\repos\nested conditionals\pochivka\bin\Debug\netcoreapp3.1\pochivka.exe
+C:\Users\rmink\source\repos\nested conditionals\pochivka\bin\Debug\netcoreapp3.1\pochivka.deps.json
+C:\Users\rmink\source\repos\nested conditionals\pochivka\bin\Debug\netcoreapp3.1\pochivka.runtimeconfig.json
+C:\Users\rmink\source\repos\nested conditionals\pochivka\bin\Debug\netcoreapp3.1\pochivka.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\nested conditionals\pochivka\bin\Debug\netcoreapp3.1\pochivka.dll
+C:\Users\rmink\source\repos\nested conditionals\pochivka\bin\Debug\netcoreapp3.1\pochivka.pdb
+C:\Users\rmink\source\repos\nested conditionals\pochivka\obj\Debug\netcoreapp3.1\pochivka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\nested conditionals\pochivka\obj\Debug\netcoreapp3.1\pochivka.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\nested conditionals\pochivka\obj\Debug\netcoreapp3.1\pochivka.AssemblyInfo.cs
+C:\Users\rmink\source\repos\nested conditionals\pochivka\obj\Debug\netcoreapp3.1\pochivka.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\nested conditionals\pochivka\obj\Debug\netcoreapp3.1\pochivka.dll
+C:\Users\rmink\source\repos\nested conditionals\pochivka\obj\Debug\netcoreapp3.1\pochivka.pdb
+C:\Users\rmink\source\repos\nested conditionals\pochivka\obj\Debug\netcoreapp3.1\pochivka.genruntimeconfig.cache

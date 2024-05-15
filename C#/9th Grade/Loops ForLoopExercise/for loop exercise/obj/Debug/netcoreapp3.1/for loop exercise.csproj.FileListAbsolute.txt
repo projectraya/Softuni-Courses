@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\for loop exercise\for loop exercise\bin\Debug\netcoreapp3.1\for loop exercise.exe
+C:\Users\rmink\source\repos\for loop exercise\for loop exercise\bin\Debug\netcoreapp3.1\for loop exercise.deps.json
+C:\Users\rmink\source\repos\for loop exercise\for loop exercise\bin\Debug\netcoreapp3.1\for loop exercise.runtimeconfig.json
+C:\Users\rmink\source\repos\for loop exercise\for loop exercise\bin\Debug\netcoreapp3.1\for loop exercise.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\for loop exercise\for loop exercise\bin\Debug\netcoreapp3.1\for loop exercise.dll
+C:\Users\rmink\source\repos\for loop exercise\for loop exercise\bin\Debug\netcoreapp3.1\for loop exercise.pdb
+C:\Users\rmink\source\repos\for loop exercise\for loop exercise\obj\Debug\netcoreapp3.1\for loop exercise.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\for loop exercise\for loop exercise\obj\Debug\netcoreapp3.1\for loop exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\for loop exercise\for loop exercise\obj\Debug\netcoreapp3.1\for loop exercise.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\for loop exercise\for loop exercise\obj\Debug\netcoreapp3.1\for loop exercise.AssemblyInfo.cs
+C:\Users\rmink\source\repos\for loop exercise\for loop exercise\obj\Debug\netcoreapp3.1\for loop exercise.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\for loop exercise\for loop exercise\obj\Debug\netcoreapp3.1\for loop exercise.dll
+C:\Users\rmink\source\repos\for loop exercise\for loop exercise\obj\Debug\netcoreapp3.1\for loop exercise.pdb
+C:\Users\rmink\source\repos\for loop exercise\for loop exercise\obj\Debug\netcoreapp3.1\for loop exercise.genruntimeconfig.cache

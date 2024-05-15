@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\for loop again\string again\bin\Debug\netcoreapp3.1\string again.exe
+C:\Users\rmink\source\repos\for loop again\string again\bin\Debug\netcoreapp3.1\string again.deps.json
+C:\Users\rmink\source\repos\for loop again\string again\bin\Debug\netcoreapp3.1\string again.runtimeconfig.json
+C:\Users\rmink\source\repos\for loop again\string again\bin\Debug\netcoreapp3.1\string again.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\for loop again\string again\bin\Debug\netcoreapp3.1\string again.dll
+C:\Users\rmink\source\repos\for loop again\string again\bin\Debug\netcoreapp3.1\string again.pdb
+C:\Users\rmink\source\repos\for loop again\string again\obj\Debug\netcoreapp3.1\string again.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\for loop again\string again\obj\Debug\netcoreapp3.1\string again.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\for loop again\string again\obj\Debug\netcoreapp3.1\string again.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\for loop again\string again\obj\Debug\netcoreapp3.1\string again.AssemblyInfo.cs
+C:\Users\rmink\source\repos\for loop again\string again\obj\Debug\netcoreapp3.1\string again.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\for loop again\string again\obj\Debug\netcoreapp3.1\string again.dll
+C:\Users\rmink\source\repos\for loop again\string again\obj\Debug\netcoreapp3.1\string again.pdb
+C:\Users\rmink\source\repos\for loop again\string again\obj\Debug\netcoreapp3.1\string again.genruntimeconfig.cache

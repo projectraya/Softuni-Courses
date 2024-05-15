@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\tiktaktoe\tiktaktoe\bin\Debug\net5.0\tiktaktoe.exe
+C:\Users\rmink\source\repos\tiktaktoe\tiktaktoe\bin\Debug\net5.0\tiktaktoe.deps.json
+C:\Users\rmink\source\repos\tiktaktoe\tiktaktoe\bin\Debug\net5.0\tiktaktoe.runtimeconfig.json
+C:\Users\rmink\source\repos\tiktaktoe\tiktaktoe\bin\Debug\net5.0\tiktaktoe.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\tiktaktoe\tiktaktoe\bin\Debug\net5.0\tiktaktoe.dll
+C:\Users\rmink\source\repos\tiktaktoe\tiktaktoe\bin\Debug\net5.0\ref\tiktaktoe.dll
+C:\Users\rmink\source\repos\tiktaktoe\tiktaktoe\bin\Debug\net5.0\tiktaktoe.pdb
+C:\Users\rmink\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net5.0\tiktaktoe.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net5.0\tiktaktoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net5.0\tiktaktoe.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net5.0\tiktaktoe.AssemblyInfo.cs
+C:\Users\rmink\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net5.0\tiktaktoe.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net5.0\tiktaktoe.dll
+C:\Users\rmink\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net5.0\ref\tiktaktoe.dll
+C:\Users\rmink\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net5.0\tiktaktoe.pdb
+C:\Users\rmink\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net5.0\tiktaktoe.genruntimeconfig.cache

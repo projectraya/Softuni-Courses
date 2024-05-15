@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\listsexcersise\listsexcersise\bin\Debug\net5.0\listsexcersise.exe
+C:\Users\rmink\source\repos\listsexcersise\listsexcersise\bin\Debug\net5.0\listsexcersise.deps.json
+C:\Users\rmink\source\repos\listsexcersise\listsexcersise\bin\Debug\net5.0\listsexcersise.runtimeconfig.json
+C:\Users\rmink\source\repos\listsexcersise\listsexcersise\bin\Debug\net5.0\listsexcersise.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\listsexcersise\listsexcersise\bin\Debug\net5.0\listsexcersise.dll
+C:\Users\rmink\source\repos\listsexcersise\listsexcersise\bin\Debug\net5.0\ref\listsexcersise.dll
+C:\Users\rmink\source\repos\listsexcersise\listsexcersise\bin\Debug\net5.0\listsexcersise.pdb
+C:\Users\rmink\source\repos\listsexcersise\listsexcersise\obj\Debug\net5.0\listsexcersise.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\listsexcersise\listsexcersise\obj\Debug\net5.0\listsexcersise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\listsexcersise\listsexcersise\obj\Debug\net5.0\listsexcersise.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\listsexcersise\listsexcersise\obj\Debug\net5.0\listsexcersise.AssemblyInfo.cs
+C:\Users\rmink\source\repos\listsexcersise\listsexcersise\obj\Debug\net5.0\listsexcersise.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\listsexcersise\listsexcersise\obj\Debug\net5.0\listsexcersise.dll
+C:\Users\rmink\source\repos\listsexcersise\listsexcersise\obj\Debug\net5.0\ref\listsexcersise.dll
+C:\Users\rmink\source\repos\listsexcersise\listsexcersise\obj\Debug\net5.0\listsexcersise.pdb
+C:\Users\rmink\source\repos\listsexcersise\listsexcersise\obj\Debug\net5.0\listsexcersise.genruntimeconfig.cache

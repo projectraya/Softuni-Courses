@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\methods\devetalab\bin\Debug\net5.0\devetalab.exe
+C:\Users\rmink\source\repos\methods\devetalab\bin\Debug\net5.0\devetalab.deps.json
+C:\Users\rmink\source\repos\methods\devetalab\bin\Debug\net5.0\devetalab.runtimeconfig.json
+C:\Users\rmink\source\repos\methods\devetalab\bin\Debug\net5.0\devetalab.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\methods\devetalab\bin\Debug\net5.0\devetalab.dll
+C:\Users\rmink\source\repos\methods\devetalab\bin\Debug\net5.0\ref\devetalab.dll
+C:\Users\rmink\source\repos\methods\devetalab\bin\Debug\net5.0\devetalab.pdb
+C:\Users\rmink\source\repos\methods\devetalab\obj\Debug\net5.0\devetalab.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\methods\devetalab\obj\Debug\net5.0\devetalab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\methods\devetalab\obj\Debug\net5.0\devetalab.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\methods\devetalab\obj\Debug\net5.0\devetalab.AssemblyInfo.cs
+C:\Users\rmink\source\repos\methods\devetalab\obj\Debug\net5.0\devetalab.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\methods\devetalab\obj\Debug\net5.0\devetalab.dll
+C:\Users\rmink\source\repos\methods\devetalab\obj\Debug\net5.0\ref\devetalab.dll
+C:\Users\rmink\source\repos\methods\devetalab\obj\Debug\net5.0\devetalab.pdb
+C:\Users\rmink\source\repos\methods\devetalab\obj\Debug\net5.0\devetalab.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\nestedloopsex\nestedloopsex\bin\Debug\netcoreapp3.1\nestedloopsex.exe
+C:\Users\rmink\source\repos\nestedloopsex\nestedloopsex\bin\Debug\netcoreapp3.1\nestedloopsex.deps.json
+C:\Users\rmink\source\repos\nestedloopsex\nestedloopsex\bin\Debug\netcoreapp3.1\nestedloopsex.runtimeconfig.json
+C:\Users\rmink\source\repos\nestedloopsex\nestedloopsex\bin\Debug\netcoreapp3.1\nestedloopsex.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\nestedloopsex\nestedloopsex\bin\Debug\netcoreapp3.1\nestedloopsex.dll
+C:\Users\rmink\source\repos\nestedloopsex\nestedloopsex\bin\Debug\netcoreapp3.1\nestedloopsex.pdb
+C:\Users\rmink\source\repos\nestedloopsex\nestedloopsex\obj\Debug\netcoreapp3.1\nestedloopsex.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\nestedloopsex\nestedloopsex\obj\Debug\netcoreapp3.1\nestedloopsex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\nestedloopsex\nestedloopsex\obj\Debug\netcoreapp3.1\nestedloopsex.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\nestedloopsex\nestedloopsex\obj\Debug\netcoreapp3.1\nestedloopsex.AssemblyInfo.cs
+C:\Users\rmink\source\repos\nestedloopsex\nestedloopsex\obj\Debug\netcoreapp3.1\nestedloopsex.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\nestedloopsex\nestedloopsex\obj\Debug\netcoreapp3.1\nestedloopsex.dll
+C:\Users\rmink\source\repos\nestedloopsex\nestedloopsex\obj\Debug\netcoreapp3.1\nestedloopsex.pdb
+C:\Users\rmink\source\repos\nestedloopsex\nestedloopsex\obj\Debug\netcoreapp3.1\nestedloopsex.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\sets and dictionaries\snippets\bin\Debug\net5.0\snippets.exe
+C:\Users\rmink\source\repos\sets and dictionaries\snippets\bin\Debug\net5.0\snippets.deps.json
+C:\Users\rmink\source\repos\sets and dictionaries\snippets\bin\Debug\net5.0\snippets.runtimeconfig.json
+C:\Users\rmink\source\repos\sets and dictionaries\snippets\bin\Debug\net5.0\snippets.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\sets and dictionaries\snippets\bin\Debug\net5.0\snippets.dll
+C:\Users\rmink\source\repos\sets and dictionaries\snippets\bin\Debug\net5.0\snippets.pdb
+C:\Users\rmink\source\repos\sets and dictionaries\snippets\obj\Debug\net5.0\snippets.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\sets and dictionaries\snippets\obj\Debug\net5.0\snippets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\sets and dictionaries\snippets\obj\Debug\net5.0\snippets.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\sets and dictionaries\snippets\obj\Debug\net5.0\snippets.AssemblyInfo.cs
+C:\Users\rmink\source\repos\sets and dictionaries\snippets\obj\Debug\net5.0\snippets.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\sets and dictionaries\snippets\obj\Debug\net5.0\snippets.dll
+C:\Users\rmink\source\repos\sets and dictionaries\snippets\obj\Debug\net5.0\refint\snippets.dll
+C:\Users\rmink\source\repos\sets and dictionaries\snippets\obj\Debug\net5.0\snippets.pdb
+C:\Users\rmink\source\repos\sets and dictionaries\snippets\obj\Debug\net5.0\snippets.genruntimeconfig.cache
+C:\Users\rmink\source\repos\sets and dictionaries\snippets\obj\Debug\net5.0\ref\snippets.dll

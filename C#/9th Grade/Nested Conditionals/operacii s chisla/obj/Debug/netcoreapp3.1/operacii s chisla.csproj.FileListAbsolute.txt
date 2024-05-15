@@ -1,0 +1,13 @@
+C:\Users\rmink\source\repos\nested conditionals\operacii s chisla\bin\Debug\netcoreapp3.1\operacii s chisla.exe
+C:\Users\rmink\source\repos\nested conditionals\operacii s chisla\bin\Debug\netcoreapp3.1\operacii s chisla.deps.json
+C:\Users\rmink\source\repos\nested conditionals\operacii s chisla\bin\Debug\netcoreapp3.1\operacii s chisla.runtimeconfig.json
+C:\Users\rmink\source\repos\nested conditionals\operacii s chisla\bin\Debug\netcoreapp3.1\operacii s chisla.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\nested conditionals\operacii s chisla\bin\Debug\netcoreapp3.1\operacii s chisla.dll
+C:\Users\rmink\source\repos\nested conditionals\operacii s chisla\bin\Debug\netcoreapp3.1\operacii s chisla.pdb
+C:\Users\rmink\source\repos\nested conditionals\operacii s chisla\obj\Debug\netcoreapp3.1\operacii s chisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\nested conditionals\operacii s chisla\obj\Debug\netcoreapp3.1\operacii s chisla.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\nested conditionals\operacii s chisla\obj\Debug\netcoreapp3.1\operacii s chisla.AssemblyInfo.cs
+C:\Users\rmink\source\repos\nested conditionals\operacii s chisla\obj\Debug\netcoreapp3.1\operacii s chisla.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\nested conditionals\operacii s chisla\obj\Debug\netcoreapp3.1\operacii s chisla.dll
+C:\Users\rmink\source\repos\nested conditionals\operacii s chisla\obj\Debug\netcoreapp3.1\operacii s chisla.pdb
+C:\Users\rmink\source\repos\nested conditionals\operacii s chisla\obj\Debug\netcoreapp3.1\operacii s chisla.genruntimeconfig.cache

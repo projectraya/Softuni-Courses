@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\pregovor vtori srok\dictionaries\bin\Debug\net5.0\dictionaries.exe
+C:\Users\rmink\source\repos\pregovor vtori srok\dictionaries\bin\Debug\net5.0\dictionaries.deps.json
+C:\Users\rmink\source\repos\pregovor vtori srok\dictionaries\bin\Debug\net5.0\dictionaries.runtimeconfig.json
+C:\Users\rmink\source\repos\pregovor vtori srok\dictionaries\bin\Debug\net5.0\dictionaries.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\pregovor vtori srok\dictionaries\bin\Debug\net5.0\dictionaries.dll
+C:\Users\rmink\source\repos\pregovor vtori srok\dictionaries\bin\Debug\net5.0\dictionaries.pdb
+C:\Users\rmink\source\repos\pregovor vtori srok\dictionaries\obj\Debug\net5.0\dictionaries.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\dictionaries\obj\Debug\net5.0\dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\pregovor vtori srok\dictionaries\obj\Debug\net5.0\dictionaries.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\dictionaries\obj\Debug\net5.0\dictionaries.AssemblyInfo.cs
+C:\Users\rmink\source\repos\pregovor vtori srok\dictionaries\obj\Debug\net5.0\dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\dictionaries\obj\Debug\net5.0\dictionaries.dll
+C:\Users\rmink\source\repos\pregovor vtori srok\dictionaries\obj\Debug\net5.0\refint\dictionaries.dll
+C:\Users\rmink\source\repos\pregovor vtori srok\dictionaries\obj\Debug\net5.0\dictionaries.pdb
+C:\Users\rmink\source\repos\pregovor vtori srok\dictionaries\obj\Debug\net5.0\dictionaries.genruntimeconfig.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\dictionaries\obj\Debug\net5.0\ref\dictionaries.dll

@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\sets and dictionaries\iiieiei\bin\Debug\net5.0\iiieiei.exe
+C:\Users\rmink\source\repos\sets and dictionaries\iiieiei\bin\Debug\net5.0\iiieiei.deps.json
+C:\Users\rmink\source\repos\sets and dictionaries\iiieiei\bin\Debug\net5.0\iiieiei.runtimeconfig.json
+C:\Users\rmink\source\repos\sets and dictionaries\iiieiei\bin\Debug\net5.0\iiieiei.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\sets and dictionaries\iiieiei\bin\Debug\net5.0\iiieiei.dll
+C:\Users\rmink\source\repos\sets and dictionaries\iiieiei\bin\Debug\net5.0\iiieiei.pdb
+C:\Users\rmink\source\repos\sets and dictionaries\iiieiei\obj\Debug\net5.0\iiieiei.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\sets and dictionaries\iiieiei\obj\Debug\net5.0\iiieiei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\sets and dictionaries\iiieiei\obj\Debug\net5.0\iiieiei.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\sets and dictionaries\iiieiei\obj\Debug\net5.0\iiieiei.AssemblyInfo.cs
+C:\Users\rmink\source\repos\sets and dictionaries\iiieiei\obj\Debug\net5.0\iiieiei.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\sets and dictionaries\iiieiei\obj\Debug\net5.0\iiieiei.dll
+C:\Users\rmink\source\repos\sets and dictionaries\iiieiei\obj\Debug\net5.0\refint\iiieiei.dll
+C:\Users\rmink\source\repos\sets and dictionaries\iiieiei\obj\Debug\net5.0\iiieiei.pdb
+C:\Users\rmink\source\repos\sets and dictionaries\iiieiei\obj\Debug\net5.0\iiieiei.genruntimeconfig.cache
+C:\Users\rmink\source\repos\sets and dictionaries\iiieiei\obj\Debug\net5.0\ref\iiieiei.dll

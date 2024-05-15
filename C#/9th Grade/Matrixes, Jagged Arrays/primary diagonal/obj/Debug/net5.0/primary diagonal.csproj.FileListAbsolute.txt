@@ -1,0 +1,15 @@
+C:\Users\rmink\source\repos\matrix\primary diagonal\bin\Debug\net5.0\primary diagonal.exe
+C:\Users\rmink\source\repos\matrix\primary diagonal\bin\Debug\net5.0\primary diagonal.deps.json
+C:\Users\rmink\source\repos\matrix\primary diagonal\bin\Debug\net5.0\primary diagonal.runtimeconfig.json
+C:\Users\rmink\source\repos\matrix\primary diagonal\bin\Debug\net5.0\primary diagonal.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\matrix\primary diagonal\bin\Debug\net5.0\primary diagonal.dll
+C:\Users\rmink\source\repos\matrix\primary diagonal\bin\Debug\net5.0\ref\primary diagonal.dll
+C:\Users\rmink\source\repos\matrix\primary diagonal\bin\Debug\net5.0\primary diagonal.pdb
+C:\Users\rmink\source\repos\matrix\primary diagonal\obj\Debug\net5.0\primary diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\matrix\primary diagonal\obj\Debug\net5.0\primary diagonal.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\matrix\primary diagonal\obj\Debug\net5.0\primary diagonal.AssemblyInfo.cs
+C:\Users\rmink\source\repos\matrix\primary diagonal\obj\Debug\net5.0\primary diagonal.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\matrix\primary diagonal\obj\Debug\net5.0\primary diagonal.dll
+C:\Users\rmink\source\repos\matrix\primary diagonal\obj\Debug\net5.0\ref\primary diagonal.dll
+C:\Users\rmink\source\repos\matrix\primary diagonal\obj\Debug\net5.0\primary diagonal.pdb
+C:\Users\rmink\source\repos\matrix\primary diagonal\obj\Debug\net5.0\primary diagonal.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\sandbox\brackets\bin\Debug\net5.0\brackets.exe
+C:\Users\rmink\source\repos\sandbox\brackets\bin\Debug\net5.0\brackets.deps.json
+C:\Users\rmink\source\repos\sandbox\brackets\bin\Debug\net5.0\brackets.runtimeconfig.json
+C:\Users\rmink\source\repos\sandbox\brackets\bin\Debug\net5.0\brackets.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\sandbox\brackets\bin\Debug\net5.0\brackets.dll
+C:\Users\rmink\source\repos\sandbox\brackets\bin\Debug\net5.0\brackets.pdb
+C:\Users\rmink\source\repos\sandbox\brackets\obj\Debug\net5.0\brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\sandbox\brackets\obj\Debug\net5.0\brackets.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\sandbox\brackets\obj\Debug\net5.0\brackets.AssemblyInfo.cs
+C:\Users\rmink\source\repos\sandbox\brackets\obj\Debug\net5.0\brackets.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\sandbox\brackets\obj\Debug\net5.0\brackets.dll
+C:\Users\rmink\source\repos\sandbox\brackets\obj\Debug\net5.0\ref\brackets.dll
+C:\Users\rmink\source\repos\sandbox\brackets\obj\Debug\net5.0\brackets.pdb
+C:\Users\rmink\source\repos\sandbox\brackets\obj\Debug\net5.0\brackets.genruntimeconfig.cache
+C:\Users\rmink\source\repos\sandbox\brackets\obj\Debug\net5.0\brackets.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\sandbox\brackets\obj\Debug\net5.0\refint\brackets.dll

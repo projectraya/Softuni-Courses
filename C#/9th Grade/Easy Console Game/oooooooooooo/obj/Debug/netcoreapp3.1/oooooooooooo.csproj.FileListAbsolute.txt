@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\oooooooooooo\oooooooooooo\bin\Debug\netcoreapp3.1\oooooooooooo.exe
+C:\Users\rmink\source\repos\oooooooooooo\oooooooooooo\bin\Debug\netcoreapp3.1\oooooooooooo.deps.json
+C:\Users\rmink\source\repos\oooooooooooo\oooooooooooo\bin\Debug\netcoreapp3.1\oooooooooooo.runtimeconfig.json
+C:\Users\rmink\source\repos\oooooooooooo\oooooooooooo\bin\Debug\netcoreapp3.1\oooooooooooo.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\oooooooooooo\oooooooooooo\bin\Debug\netcoreapp3.1\oooooooooooo.dll
+C:\Users\rmink\source\repos\oooooooooooo\oooooooooooo\bin\Debug\netcoreapp3.1\oooooooooooo.pdb
+C:\Users\rmink\source\repos\oooooooooooo\oooooooooooo\obj\Debug\netcoreapp3.1\oooooooooooo.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\oooooooooooo\oooooooooooo\obj\Debug\netcoreapp3.1\oooooooooooo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\oooooooooooo\oooooooooooo\obj\Debug\netcoreapp3.1\oooooooooooo.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\oooooooooooo\oooooooooooo\obj\Debug\netcoreapp3.1\oooooooooooo.AssemblyInfo.cs
+C:\Users\rmink\source\repos\oooooooooooo\oooooooooooo\obj\Debug\netcoreapp3.1\oooooooooooo.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\oooooooooooo\oooooooooooo\obj\Debug\netcoreapp3.1\oooooooooooo.dll
+C:\Users\rmink\source\repos\oooooooooooo\oooooooooooo\obj\Debug\netcoreapp3.1\oooooooooooo.pdb
+C:\Users\rmink\source\repos\oooooooooooo\oooooooooooo\obj\Debug\netcoreapp3.1\oooooooooooo.genruntimeconfig.cache

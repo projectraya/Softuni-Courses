@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SimpleClasses-Exercises/1.0.0": {
+        "runtime": {
+          "SimpleClasses-Exercises.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleClasses-Exercises/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

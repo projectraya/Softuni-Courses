@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\sandbox\mrsimonachin\bin\Debug\net5.0\mrsimonachin.exe
+C:\Users\rmink\source\repos\sandbox\mrsimonachin\bin\Debug\net5.0\mrsimonachin.deps.json
+C:\Users\rmink\source\repos\sandbox\mrsimonachin\bin\Debug\net5.0\mrsimonachin.runtimeconfig.json
+C:\Users\rmink\source\repos\sandbox\mrsimonachin\bin\Debug\net5.0\mrsimonachin.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\sandbox\mrsimonachin\bin\Debug\net5.0\mrsimonachin.dll
+C:\Users\rmink\source\repos\sandbox\mrsimonachin\bin\Debug\net5.0\ref\mrsimonachin.dll
+C:\Users\rmink\source\repos\sandbox\mrsimonachin\bin\Debug\net5.0\mrsimonachin.pdb
+C:\Users\rmink\source\repos\sandbox\mrsimonachin\obj\Debug\net5.0\mrsimonachin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\sandbox\mrsimonachin\obj\Debug\net5.0\mrsimonachin.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\sandbox\mrsimonachin\obj\Debug\net5.0\mrsimonachin.AssemblyInfo.cs
+C:\Users\rmink\source\repos\sandbox\mrsimonachin\obj\Debug\net5.0\mrsimonachin.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\sandbox\mrsimonachin\obj\Debug\net5.0\mrsimonachin.dll
+C:\Users\rmink\source\repos\sandbox\mrsimonachin\obj\Debug\net5.0\ref\mrsimonachin.dll
+C:\Users\rmink\source\repos\sandbox\mrsimonachin\obj\Debug\net5.0\mrsimonachin.pdb
+C:\Users\rmink\source\repos\sandbox\mrsimonachin\obj\Debug\net5.0\mrsimonachin.genruntimeconfig.cache
+C:\Users\rmink\source\repos\sandbox\mrsimonachin\obj\Debug\net5.0\mrsimonachin.csproj.AssemblyReference.cache

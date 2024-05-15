@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pregovor9klas/1.0.0": {
+        "runtime": {
+          "Pregovor9klas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pregovor9klas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

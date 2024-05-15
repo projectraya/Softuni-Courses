@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\sandbox\gosho\bin\Debug\net5.0\gosho.exe
+C:\Users\rmink\source\repos\sandbox\gosho\bin\Debug\net5.0\gosho.deps.json
+C:\Users\rmink\source\repos\sandbox\gosho\bin\Debug\net5.0\gosho.runtimeconfig.json
+C:\Users\rmink\source\repos\sandbox\gosho\bin\Debug\net5.0\gosho.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\sandbox\gosho\bin\Debug\net5.0\gosho.dll
+C:\Users\rmink\source\repos\sandbox\gosho\bin\Debug\net5.0\ref\gosho.dll
+C:\Users\rmink\source\repos\sandbox\gosho\bin\Debug\net5.0\gosho.pdb
+C:\Users\rmink\source\repos\sandbox\gosho\obj\Debug\net5.0\gosho.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\sandbox\gosho\obj\Debug\net5.0\gosho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\sandbox\gosho\obj\Debug\net5.0\gosho.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\sandbox\gosho\obj\Debug\net5.0\gosho.AssemblyInfo.cs
+C:\Users\rmink\source\repos\sandbox\gosho\obj\Debug\net5.0\gosho.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\sandbox\gosho\obj\Debug\net5.0\gosho.dll
+C:\Users\rmink\source\repos\sandbox\gosho\obj\Debug\net5.0\ref\gosho.dll
+C:\Users\rmink\source\repos\sandbox\gosho\obj\Debug\net5.0\gosho.pdb
+C:\Users\rmink\source\repos\sandbox\gosho\obj\Debug\net5.0\gosho.genruntimeconfig.cache

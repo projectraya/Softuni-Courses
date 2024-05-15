@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\lambdaagain\lambdaagain\bin\Debug\net5.0\lambdaagain.exe
+C:\Users\rmink\source\repos\lambdaagain\lambdaagain\bin\Debug\net5.0\lambdaagain.deps.json
+C:\Users\rmink\source\repos\lambdaagain\lambdaagain\bin\Debug\net5.0\lambdaagain.runtimeconfig.json
+C:\Users\rmink\source\repos\lambdaagain\lambdaagain\bin\Debug\net5.0\lambdaagain.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\lambdaagain\lambdaagain\bin\Debug\net5.0\lambdaagain.dll
+C:\Users\rmink\source\repos\lambdaagain\lambdaagain\bin\Debug\net5.0\lambdaagain.pdb
+C:\Users\rmink\source\repos\lambdaagain\lambdaagain\obj\Debug\net5.0\lambdaagain.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\lambdaagain\lambdaagain\obj\Debug\net5.0\lambdaagain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\lambdaagain\lambdaagain\obj\Debug\net5.0\lambdaagain.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\lambdaagain\lambdaagain\obj\Debug\net5.0\lambdaagain.AssemblyInfo.cs
+C:\Users\rmink\source\repos\lambdaagain\lambdaagain\obj\Debug\net5.0\lambdaagain.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\lambdaagain\lambdaagain\obj\Debug\net5.0\lambdaagain.dll
+C:\Users\rmink\source\repos\lambdaagain\lambdaagain\obj\Debug\net5.0\refint\lambdaagain.dll
+C:\Users\rmink\source\repos\lambdaagain\lambdaagain\obj\Debug\net5.0\lambdaagain.pdb
+C:\Users\rmink\source\repos\lambdaagain\lambdaagain\obj\Debug\net5.0\lambdaagain.genruntimeconfig.cache
+C:\Users\rmink\source\repos\lambdaagain\lambdaagain\obj\Debug\net5.0\ref\lambdaagain.dll

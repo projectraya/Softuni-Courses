@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.exe
+C:\Users\rmink\source\repos\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.deps.json
+C:\Users\rmink\source\repos\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.runtimeconfig.json
+C:\Users\rmink\source\repos\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.dll
+C:\Users\rmink\source\repos\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.pdb
+C:\Users\rmink\source\repos\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.AssemblyInfo.cs
+C:\Users\rmink\source\repos\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.dll
+C:\Users\rmink\source\repos\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.pdb
+C:\Users\rmink\source\repos\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\sandbox\sandbox\obj\Debug\net5.0\sandbox.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\sandbox\sandbox\obj\Debug\net5.0\sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\sandbox\sandbox\obj\Debug\net5.0\sandbox.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\sandbox\sandbox\obj\Debug\net5.0\sandbox.AssemblyInfo.cs
+C:\Users\rmink\source\repos\sandbox\sandbox\obj\Debug\net5.0\sandbox.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\sandbox\sandbox\bin\Debug\net5.0\sandbox.exe
+C:\Users\rmink\source\repos\sandbox\sandbox\bin\Debug\net5.0\sandbox.deps.json
+C:\Users\rmink\source\repos\sandbox\sandbox\bin\Debug\net5.0\sandbox.runtimeconfig.json
+C:\Users\rmink\source\repos\sandbox\sandbox\bin\Debug\net5.0\sandbox.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\sandbox\sandbox\bin\Debug\net5.0\sandbox.dll
+C:\Users\rmink\source\repos\sandbox\sandbox\bin\Debug\net5.0\ref\sandbox.dll
+C:\Users\rmink\source\repos\sandbox\sandbox\bin\Debug\net5.0\sandbox.pdb
+C:\Users\rmink\source\repos\sandbox\sandbox\obj\Debug\net5.0\sandbox.dll
+C:\Users\rmink\source\repos\sandbox\sandbox\obj\Debug\net5.0\ref\sandbox.dll
+C:\Users\rmink\source\repos\sandbox\sandbox\obj\Debug\net5.0\sandbox.pdb
+C:\Users\rmink\source\repos\sandbox\sandbox\obj\Debug\net5.0\sandbox.genruntimeconfig.cache

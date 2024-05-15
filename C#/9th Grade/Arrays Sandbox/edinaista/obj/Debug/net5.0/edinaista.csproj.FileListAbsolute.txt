@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\stepbystep\edinaista\bin\Debug\net5.0\edinaista.exe
+C:\Users\rmink\source\repos\stepbystep\edinaista\bin\Debug\net5.0\edinaista.deps.json
+C:\Users\rmink\source\repos\stepbystep\edinaista\bin\Debug\net5.0\edinaista.runtimeconfig.json
+C:\Users\rmink\source\repos\stepbystep\edinaista\bin\Debug\net5.0\edinaista.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\stepbystep\edinaista\bin\Debug\net5.0\edinaista.dll
+C:\Users\rmink\source\repos\stepbystep\edinaista\bin\Debug\net5.0\ref\edinaista.dll
+C:\Users\rmink\source\repos\stepbystep\edinaista\bin\Debug\net5.0\edinaista.pdb
+C:\Users\rmink\source\repos\stepbystep\edinaista\obj\Debug\net5.0\edinaista.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\stepbystep\edinaista\obj\Debug\net5.0\edinaista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\stepbystep\edinaista\obj\Debug\net5.0\edinaista.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\stepbystep\edinaista\obj\Debug\net5.0\edinaista.AssemblyInfo.cs
+C:\Users\rmink\source\repos\stepbystep\edinaista\obj\Debug\net5.0\edinaista.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\stepbystep\edinaista\obj\Debug\net5.0\edinaista.dll
+C:\Users\rmink\source\repos\stepbystep\edinaista\obj\Debug\net5.0\ref\edinaista.dll
+C:\Users\rmink\source\repos\stepbystep\edinaista\obj\Debug\net5.0\edinaista.pdb
+C:\Users\rmink\source\repos\stepbystep\edinaista\obj\Debug\net5.0\edinaista.genruntimeconfig.cache

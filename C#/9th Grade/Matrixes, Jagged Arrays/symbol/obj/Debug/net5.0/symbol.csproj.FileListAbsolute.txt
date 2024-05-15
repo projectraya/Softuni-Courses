@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\matrix\symbol\bin\Debug\net5.0\symbol.exe
+C:\Users\rmink\source\repos\matrix\symbol\bin\Debug\net5.0\symbol.deps.json
+C:\Users\rmink\source\repos\matrix\symbol\bin\Debug\net5.0\symbol.runtimeconfig.json
+C:\Users\rmink\source\repos\matrix\symbol\bin\Debug\net5.0\symbol.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\matrix\symbol\bin\Debug\net5.0\symbol.dll
+C:\Users\rmink\source\repos\matrix\symbol\bin\Debug\net5.0\ref\symbol.dll
+C:\Users\rmink\source\repos\matrix\symbol\bin\Debug\net5.0\symbol.pdb
+C:\Users\rmink\source\repos\matrix\symbol\obj\Debug\net5.0\symbol.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\matrix\symbol\obj\Debug\net5.0\symbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\matrix\symbol\obj\Debug\net5.0\symbol.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\matrix\symbol\obj\Debug\net5.0\symbol.AssemblyInfo.cs
+C:\Users\rmink\source\repos\matrix\symbol\obj\Debug\net5.0\symbol.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\matrix\symbol\obj\Debug\net5.0\symbol.dll
+C:\Users\rmink\source\repos\matrix\symbol\obj\Debug\net5.0\ref\symbol.dll
+C:\Users\rmink\source\repos\matrix\symbol\obj\Debug\net5.0\symbol.pdb
+C:\Users\rmink\source\repos\matrix\symbol\obj\Debug\net5.0\symbol.genruntimeconfig.cache

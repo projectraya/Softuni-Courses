@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\loopspak\vtora\bin\Debug\netcoreapp3.1\vtora.exe
+C:\Users\rmink\source\repos\loopspak\vtora\bin\Debug\netcoreapp3.1\vtora.deps.json
+C:\Users\rmink\source\repos\loopspak\vtora\bin\Debug\netcoreapp3.1\vtora.runtimeconfig.json
+C:\Users\rmink\source\repos\loopspak\vtora\bin\Debug\netcoreapp3.1\vtora.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\loopspak\vtora\bin\Debug\netcoreapp3.1\vtora.dll
+C:\Users\rmink\source\repos\loopspak\vtora\bin\Debug\netcoreapp3.1\vtora.pdb
+C:\Users\rmink\source\repos\loopspak\vtora\obj\Debug\netcoreapp3.1\vtora.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\loopspak\vtora\obj\Debug\netcoreapp3.1\vtora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\loopspak\vtora\obj\Debug\netcoreapp3.1\vtora.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\loopspak\vtora\obj\Debug\netcoreapp3.1\vtora.AssemblyInfo.cs
+C:\Users\rmink\source\repos\loopspak\vtora\obj\Debug\netcoreapp3.1\vtora.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\loopspak\vtora\obj\Debug\netcoreapp3.1\vtora.dll
+C:\Users\rmink\source\repos\loopspak\vtora\obj\Debug\netcoreapp3.1\vtora.pdb
+C:\Users\rmink\source\repos\loopspak\vtora\obj\Debug\netcoreapp3.1\vtora.genruntimeconfig.cache

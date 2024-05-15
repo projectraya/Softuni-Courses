@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\test\candy\obj\Debug\netcoreapp3.1\candy.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\test\candy\obj\Debug\netcoreapp3.1\candy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\test\candy\obj\Debug\netcoreapp3.1\candy.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\test\candy\obj\Debug\netcoreapp3.1\candy.AssemblyInfo.cs
+C:\Users\rmink\source\repos\test\candy\obj\Debug\netcoreapp3.1\candy.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\test\candy\bin\Debug\netcoreapp3.1\candy.exe
+C:\Users\rmink\source\repos\test\candy\bin\Debug\netcoreapp3.1\candy.deps.json
+C:\Users\rmink\source\repos\test\candy\bin\Debug\netcoreapp3.1\candy.runtimeconfig.json
+C:\Users\rmink\source\repos\test\candy\bin\Debug\netcoreapp3.1\candy.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\test\candy\bin\Debug\netcoreapp3.1\candy.dll
+C:\Users\rmink\source\repos\test\candy\bin\Debug\netcoreapp3.1\candy.pdb
+C:\Users\rmink\source\repos\test\candy\obj\Debug\netcoreapp3.1\candy.dll
+C:\Users\rmink\source\repos\test\candy\obj\Debug\netcoreapp3.1\candy.pdb
+C:\Users\rmink\source\repos\test\candy\obj\Debug\netcoreapp3.1\candy.genruntimeconfig.cache

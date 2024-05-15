@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "vreme 15 min/1.0.0": {
+        "runtime": {
+          "vreme 15 min.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vreme 15 min/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

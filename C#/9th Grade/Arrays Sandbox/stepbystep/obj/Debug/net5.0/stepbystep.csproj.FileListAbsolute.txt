@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\stepbystep\stepbystep\bin\Debug\net5.0\stepbystep.exe
+C:\Users\rmink\source\repos\stepbystep\stepbystep\bin\Debug\net5.0\stepbystep.deps.json
+C:\Users\rmink\source\repos\stepbystep\stepbystep\bin\Debug\net5.0\stepbystep.runtimeconfig.json
+C:\Users\rmink\source\repos\stepbystep\stepbystep\bin\Debug\net5.0\stepbystep.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\stepbystep\stepbystep\bin\Debug\net5.0\stepbystep.dll
+C:\Users\rmink\source\repos\stepbystep\stepbystep\bin\Debug\net5.0\ref\stepbystep.dll
+C:\Users\rmink\source\repos\stepbystep\stepbystep\bin\Debug\net5.0\stepbystep.pdb
+C:\Users\rmink\source\repos\stepbystep\stepbystep\obj\Debug\net5.0\stepbystep.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\stepbystep\stepbystep\obj\Debug\net5.0\stepbystep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\stepbystep\stepbystep\obj\Debug\net5.0\stepbystep.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\stepbystep\stepbystep\obj\Debug\net5.0\stepbystep.AssemblyInfo.cs
+C:\Users\rmink\source\repos\stepbystep\stepbystep\obj\Debug\net5.0\stepbystep.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\stepbystep\stepbystep\obj\Debug\net5.0\stepbystep.dll
+C:\Users\rmink\source\repos\stepbystep\stepbystep\obj\Debug\net5.0\ref\stepbystep.dll
+C:\Users\rmink\source\repos\stepbystep\stepbystep\obj\Debug\net5.0\stepbystep.pdb
+C:\Users\rmink\source\repos\stepbystep\stepbystep\obj\Debug\net5.0\stepbystep.genruntimeconfig.cache

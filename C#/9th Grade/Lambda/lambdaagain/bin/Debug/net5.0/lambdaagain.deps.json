@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "lambdaagain/1.0.0": {
+        "runtime": {
+          "lambdaagain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lambdaagain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

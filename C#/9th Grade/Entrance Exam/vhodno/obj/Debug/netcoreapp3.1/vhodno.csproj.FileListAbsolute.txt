@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\purva\vhodno\bin\Debug\netcoreapp3.1\vhodno.exe
+C:\Users\rmink\source\repos\purva\vhodno\bin\Debug\netcoreapp3.1\vhodno.deps.json
+C:\Users\rmink\source\repos\purva\vhodno\bin\Debug\netcoreapp3.1\vhodno.runtimeconfig.json
+C:\Users\rmink\source\repos\purva\vhodno\bin\Debug\netcoreapp3.1\vhodno.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\purva\vhodno\bin\Debug\netcoreapp3.1\vhodno.dll
+C:\Users\rmink\source\repos\purva\vhodno\bin\Debug\netcoreapp3.1\vhodno.pdb
+C:\Users\rmink\source\repos\purva\vhodno\obj\Debug\netcoreapp3.1\vhodno.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\purva\vhodno\obj\Debug\netcoreapp3.1\vhodno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\purva\vhodno\obj\Debug\netcoreapp3.1\vhodno.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\purva\vhodno\obj\Debug\netcoreapp3.1\vhodno.AssemblyInfo.cs
+C:\Users\rmink\source\repos\purva\vhodno\obj\Debug\netcoreapp3.1\vhodno.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\purva\vhodno\obj\Debug\netcoreapp3.1\vhodno.dll
+C:\Users\rmink\source\repos\purva\vhodno\obj\Debug\netcoreapp3.1\vhodno.pdb
+C:\Users\rmink\source\repos\purva\vhodno\obj\Debug\netcoreapp3.1\vhodno.genruntimeconfig.cache

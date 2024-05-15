@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\stepbystep\vajno\bin\Debug\net5.0\vajno.exe
+C:\Users\rmink\source\repos\stepbystep\vajno\bin\Debug\net5.0\vajno.deps.json
+C:\Users\rmink\source\repos\stepbystep\vajno\bin\Debug\net5.0\vajno.runtimeconfig.json
+C:\Users\rmink\source\repos\stepbystep\vajno\bin\Debug\net5.0\vajno.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\stepbystep\vajno\bin\Debug\net5.0\vajno.dll
+C:\Users\rmink\source\repos\stepbystep\vajno\bin\Debug\net5.0\ref\vajno.dll
+C:\Users\rmink\source\repos\stepbystep\vajno\bin\Debug\net5.0\vajno.pdb
+C:\Users\rmink\source\repos\stepbystep\vajno\obj\Debug\net5.0\vajno.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\stepbystep\vajno\obj\Debug\net5.0\vajno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\stepbystep\vajno\obj\Debug\net5.0\vajno.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\stepbystep\vajno\obj\Debug\net5.0\vajno.AssemblyInfo.cs
+C:\Users\rmink\source\repos\stepbystep\vajno\obj\Debug\net5.0\vajno.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\stepbystep\vajno\obj\Debug\net5.0\vajno.dll
+C:\Users\rmink\source\repos\stepbystep\vajno\obj\Debug\net5.0\ref\vajno.dll
+C:\Users\rmink\source\repos\stepbystep\vajno\obj\Debug\net5.0\vajno.pdb
+C:\Users\rmink\source\repos\stepbystep\vajno\obj\Debug\net5.0\vajno.genruntimeconfig.cache

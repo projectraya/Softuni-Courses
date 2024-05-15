@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\pregovor vtori srok\Final exam\bin\Debug\net5.0\Final exam.exe
+C:\Users\rmink\source\repos\pregovor vtori srok\Final exam\bin\Debug\net5.0\Final exam.deps.json
+C:\Users\rmink\source\repos\pregovor vtori srok\Final exam\bin\Debug\net5.0\Final exam.runtimeconfig.json
+C:\Users\rmink\source\repos\pregovor vtori srok\Final exam\bin\Debug\net5.0\Final exam.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\pregovor vtori srok\Final exam\bin\Debug\net5.0\Final exam.dll
+C:\Users\rmink\source\repos\pregovor vtori srok\Final exam\bin\Debug\net5.0\Final exam.pdb
+C:\Users\rmink\source\repos\pregovor vtori srok\Final exam\obj\Debug\net5.0\Final exam.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\Final exam\obj\Debug\net5.0\Final exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\pregovor vtori srok\Final exam\obj\Debug\net5.0\Final exam.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\Final exam\obj\Debug\net5.0\Final exam.AssemblyInfo.cs
+C:\Users\rmink\source\repos\pregovor vtori srok\Final exam\obj\Debug\net5.0\Final exam.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\Final exam\obj\Debug\net5.0\Final exam.dll
+C:\Users\rmink\source\repos\pregovor vtori srok\Final exam\obj\Debug\net5.0\refint\Final exam.dll
+C:\Users\rmink\source\repos\pregovor vtori srok\Final exam\obj\Debug\net5.0\Final exam.pdb
+C:\Users\rmink\source\repos\pregovor vtori srok\Final exam\obj\Debug\net5.0\Final exam.genruntimeconfig.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\Final exam\obj\Debug\net5.0\ref\Final exam.dll

@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\pregovor vtori srok\FINAL exam SECOND\bin\Debug\net5.0\FINAL exam SECOND.exe
+C:\Users\rmink\source\repos\pregovor vtori srok\FINAL exam SECOND\bin\Debug\net5.0\FINAL exam SECOND.deps.json
+C:\Users\rmink\source\repos\pregovor vtori srok\FINAL exam SECOND\bin\Debug\net5.0\FINAL exam SECOND.runtimeconfig.json
+C:\Users\rmink\source\repos\pregovor vtori srok\FINAL exam SECOND\bin\Debug\net5.0\FINAL exam SECOND.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\pregovor vtori srok\FINAL exam SECOND\bin\Debug\net5.0\FINAL exam SECOND.dll
+C:\Users\rmink\source\repos\pregovor vtori srok\FINAL exam SECOND\bin\Debug\net5.0\FINAL exam SECOND.pdb
+C:\Users\rmink\source\repos\pregovor vtori srok\FINAL exam SECOND\obj\Debug\net5.0\FINAL exam SECOND.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\FINAL exam SECOND\obj\Debug\net5.0\FINAL exam SECOND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\pregovor vtori srok\FINAL exam SECOND\obj\Debug\net5.0\FINAL exam SECOND.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\FINAL exam SECOND\obj\Debug\net5.0\FINAL exam SECOND.AssemblyInfo.cs
+C:\Users\rmink\source\repos\pregovor vtori srok\FINAL exam SECOND\obj\Debug\net5.0\FINAL exam SECOND.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\FINAL exam SECOND\obj\Debug\net5.0\FINAL exam SECOND.dll
+C:\Users\rmink\source\repos\pregovor vtori srok\FINAL exam SECOND\obj\Debug\net5.0\refint\FINAL exam SECOND.dll
+C:\Users\rmink\source\repos\pregovor vtori srok\FINAL exam SECOND\obj\Debug\net5.0\FINAL exam SECOND.pdb
+C:\Users\rmink\source\repos\pregovor vtori srok\FINAL exam SECOND\obj\Debug\net5.0\FINAL exam SECOND.genruntimeconfig.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\FINAL exam SECOND\obj\Debug\net5.0\ref\FINAL exam SECOND.dll

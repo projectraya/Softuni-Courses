@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\pregovor vtori srok\pregovor vtori srok\bin\Debug\net5.0\pregovor vtori srok.exe
+C:\Users\rmink\source\repos\pregovor vtori srok\pregovor vtori srok\bin\Debug\net5.0\pregovor vtori srok.deps.json
+C:\Users\rmink\source\repos\pregovor vtori srok\pregovor vtori srok\bin\Debug\net5.0\pregovor vtori srok.runtimeconfig.json
+C:\Users\rmink\source\repos\pregovor vtori srok\pregovor vtori srok\bin\Debug\net5.0\pregovor vtori srok.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\pregovor vtori srok\pregovor vtori srok\bin\Debug\net5.0\pregovor vtori srok.dll
+C:\Users\rmink\source\repos\pregovor vtori srok\pregovor vtori srok\bin\Debug\net5.0\pregovor vtori srok.pdb
+C:\Users\rmink\source\repos\pregovor vtori srok\pregovor vtori srok\obj\Debug\net5.0\pregovor vtori srok.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\pregovor vtori srok\obj\Debug\net5.0\pregovor vtori srok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\pregovor vtori srok\pregovor vtori srok\obj\Debug\net5.0\pregovor vtori srok.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\pregovor vtori srok\obj\Debug\net5.0\pregovor vtori srok.AssemblyInfo.cs
+C:\Users\rmink\source\repos\pregovor vtori srok\pregovor vtori srok\obj\Debug\net5.0\pregovor vtori srok.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\pregovor vtori srok\obj\Debug\net5.0\pregovor vtori srok.dll
+C:\Users\rmink\source\repos\pregovor vtori srok\pregovor vtori srok\obj\Debug\net5.0\refint\pregovor vtori srok.dll
+C:\Users\rmink\source\repos\pregovor vtori srok\pregovor vtori srok\obj\Debug\net5.0\pregovor vtori srok.pdb
+C:\Users\rmink\source\repos\pregovor vtori srok\pregovor vtori srok\obj\Debug\net5.0\pregovor vtori srok.genruntimeconfig.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\pregovor vtori srok\obj\Debug\net5.0\ref\pregovor vtori srok.dll

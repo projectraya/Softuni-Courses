@@ -1,0 +1,13 @@
+C:\Users\rmink\source\repos\Pregovor 1\forzadacha\bin\Debug\netcoreapp3.1\forzadacha.exe
+C:\Users\rmink\source\repos\Pregovor 1\forzadacha\bin\Debug\netcoreapp3.1\forzadacha.deps.json
+C:\Users\rmink\source\repos\Pregovor 1\forzadacha\bin\Debug\netcoreapp3.1\forzadacha.runtimeconfig.json
+C:\Users\rmink\source\repos\Pregovor 1\forzadacha\bin\Debug\netcoreapp3.1\forzadacha.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\Pregovor 1\forzadacha\bin\Debug\netcoreapp3.1\forzadacha.dll
+C:\Users\rmink\source\repos\Pregovor 1\forzadacha\bin\Debug\netcoreapp3.1\forzadacha.pdb
+C:\Users\rmink\source\repos\Pregovor 1\forzadacha\obj\Debug\netcoreapp3.1\forzadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Pregovor 1\forzadacha\obj\Debug\netcoreapp3.1\forzadacha.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Pregovor 1\forzadacha\obj\Debug\netcoreapp3.1\forzadacha.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Pregovor 1\forzadacha\obj\Debug\netcoreapp3.1\forzadacha.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Pregovor 1\forzadacha\obj\Debug\netcoreapp3.1\forzadacha.dll
+C:\Users\rmink\source\repos\Pregovor 1\forzadacha\obj\Debug\netcoreapp3.1\forzadacha.pdb
+C:\Users\rmink\source\repos\Pregovor 1\forzadacha\obj\Debug\netcoreapp3.1\forzadacha.genruntimeconfig.cache

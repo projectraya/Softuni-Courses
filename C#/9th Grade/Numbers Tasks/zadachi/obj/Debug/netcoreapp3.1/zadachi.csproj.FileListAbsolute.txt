@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\zadachi\zadachi\obj\Debug\netcoreapp3.1\zadachi.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\zadachi\zadachi\obj\Debug\netcoreapp3.1\zadachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\zadachi\zadachi\obj\Debug\netcoreapp3.1\zadachi.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\zadachi\zadachi\obj\Debug\netcoreapp3.1\zadachi.AssemblyInfo.cs
+C:\Users\rmink\source\repos\zadachi\zadachi\obj\Debug\netcoreapp3.1\zadachi.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\zadachi\zadachi\bin\Debug\netcoreapp3.1\zadachi.exe
+C:\Users\rmink\source\repos\zadachi\zadachi\bin\Debug\netcoreapp3.1\zadachi.deps.json
+C:\Users\rmink\source\repos\zadachi\zadachi\bin\Debug\netcoreapp3.1\zadachi.runtimeconfig.json
+C:\Users\rmink\source\repos\zadachi\zadachi\bin\Debug\netcoreapp3.1\zadachi.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\zadachi\zadachi\bin\Debug\netcoreapp3.1\zadachi.dll
+C:\Users\rmink\source\repos\zadachi\zadachi\bin\Debug\netcoreapp3.1\zadachi.pdb
+C:\Users\rmink\source\repos\zadachi\zadachi\obj\Debug\netcoreapp3.1\zadachi.dll
+C:\Users\rmink\source\repos\zadachi\zadachi\obj\Debug\netcoreapp3.1\zadachi.pdb
+C:\Users\rmink\source\repos\zadachi\zadachi\obj\Debug\netcoreapp3.1\zadachi.genruntimeconfig.cache

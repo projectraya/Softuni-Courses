@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\zadachi\merni edinici\obj\Debug\netcoreapp3.1\merni edinici.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\zadachi\merni edinici\obj\Debug\netcoreapp3.1\merni edinici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\zadachi\merni edinici\obj\Debug\netcoreapp3.1\merni edinici.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\zadachi\merni edinici\obj\Debug\netcoreapp3.1\merni edinici.AssemblyInfo.cs
+C:\Users\rmink\source\repos\zadachi\merni edinici\obj\Debug\netcoreapp3.1\merni edinici.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\zadachi\merni edinici\bin\Debug\netcoreapp3.1\merni edinici.exe
+C:\Users\rmink\source\repos\zadachi\merni edinici\bin\Debug\netcoreapp3.1\merni edinici.deps.json
+C:\Users\rmink\source\repos\zadachi\merni edinici\bin\Debug\netcoreapp3.1\merni edinici.runtimeconfig.json
+C:\Users\rmink\source\repos\zadachi\merni edinici\bin\Debug\netcoreapp3.1\merni edinici.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\zadachi\merni edinici\bin\Debug\netcoreapp3.1\merni edinici.dll
+C:\Users\rmink\source\repos\zadachi\merni edinici\bin\Debug\netcoreapp3.1\merni edinici.pdb
+C:\Users\rmink\source\repos\zadachi\merni edinici\obj\Debug\netcoreapp3.1\merni edinici.dll
+C:\Users\rmink\source\repos\zadachi\merni edinici\obj\Debug\netcoreapp3.1\merni edinici.pdb
+C:\Users\rmink\source\repos\zadachi\merni edinici\obj\Debug\netcoreapp3.1\merni edinici.genruntimeconfig.cache

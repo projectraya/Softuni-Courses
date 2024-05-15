@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\Class Card\bin\Debug\net5.0\Class Card.exe
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\Class Card\bin\Debug\net5.0\Class Card.deps.json
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\Class Card\bin\Debug\net5.0\Class Card.runtimeconfig.json
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\Class Card\bin\Debug\net5.0\Class Card.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\Class Card\bin\Debug\net5.0\Class Card.dll
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\Class Card\bin\Debug\net5.0\Class Card.pdb
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\Class Card\obj\Debug\net5.0\Class Card.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\Class Card\obj\Debug\net5.0\Class Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\Class Card\obj\Debug\net5.0\Class Card.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\Class Card\obj\Debug\net5.0\Class Card.AssemblyInfo.cs
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\Class Card\obj\Debug\net5.0\Class Card.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\Class Card\obj\Debug\net5.0\Class Card.dll
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\Class Card\obj\Debug\net5.0\refint\Class Card.dll
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\Class Card\obj\Debug\net5.0\Class Card.pdb
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\Class Card\obj\Debug\net5.0\Class Card.genruntimeconfig.cache
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\Class Card\obj\Debug\net5.0\ref\Class Card.dll

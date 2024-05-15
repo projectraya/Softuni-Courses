@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\methods exam\tretaa\bin\Debug\net5.0\tretaa.exe
+C:\Users\rmink\source\repos\methods exam\tretaa\bin\Debug\net5.0\tretaa.deps.json
+C:\Users\rmink\source\repos\methods exam\tretaa\bin\Debug\net5.0\tretaa.runtimeconfig.json
+C:\Users\rmink\source\repos\methods exam\tretaa\bin\Debug\net5.0\tretaa.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\methods exam\tretaa\bin\Debug\net5.0\tretaa.dll
+C:\Users\rmink\source\repos\methods exam\tretaa\bin\Debug\net5.0\ref\tretaa.dll
+C:\Users\rmink\source\repos\methods exam\tretaa\bin\Debug\net5.0\tretaa.pdb
+C:\Users\rmink\source\repos\methods exam\tretaa\obj\Debug\net5.0\tretaa.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\methods exam\tretaa\obj\Debug\net5.0\tretaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\methods exam\tretaa\obj\Debug\net5.0\tretaa.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\methods exam\tretaa\obj\Debug\net5.0\tretaa.AssemblyInfo.cs
+C:\Users\rmink\source\repos\methods exam\tretaa\obj\Debug\net5.0\tretaa.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\methods exam\tretaa\obj\Debug\net5.0\tretaa.dll
+C:\Users\rmink\source\repos\methods exam\tretaa\obj\Debug\net5.0\ref\tretaa.dll
+C:\Users\rmink\source\repos\methods exam\tretaa\obj\Debug\net5.0\tretaa.pdb
+C:\Users\rmink\source\repos\methods exam\tretaa\obj\Debug\net5.0\tretaa.genruntimeconfig.cache

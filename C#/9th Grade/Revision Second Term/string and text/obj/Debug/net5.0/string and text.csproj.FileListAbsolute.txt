@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\pregovor vtori srok\string and text\bin\Debug\net5.0\string and text.exe
+C:\Users\rmink\source\repos\pregovor vtori srok\string and text\bin\Debug\net5.0\string and text.deps.json
+C:\Users\rmink\source\repos\pregovor vtori srok\string and text\bin\Debug\net5.0\string and text.runtimeconfig.json
+C:\Users\rmink\source\repos\pregovor vtori srok\string and text\bin\Debug\net5.0\string and text.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\pregovor vtori srok\string and text\bin\Debug\net5.0\string and text.dll
+C:\Users\rmink\source\repos\pregovor vtori srok\string and text\bin\Debug\net5.0\string and text.pdb
+C:\Users\rmink\source\repos\pregovor vtori srok\string and text\obj\Debug\net5.0\string and text.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\string and text\obj\Debug\net5.0\string and text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\pregovor vtori srok\string and text\obj\Debug\net5.0\string and text.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\string and text\obj\Debug\net5.0\string and text.AssemblyInfo.cs
+C:\Users\rmink\source\repos\pregovor vtori srok\string and text\obj\Debug\net5.0\string and text.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\string and text\obj\Debug\net5.0\string and text.dll
+C:\Users\rmink\source\repos\pregovor vtori srok\string and text\obj\Debug\net5.0\refint\string and text.dll
+C:\Users\rmink\source\repos\pregovor vtori srok\string and text\obj\Debug\net5.0\string and text.pdb
+C:\Users\rmink\source\repos\pregovor vtori srok\string and text\obj\Debug\net5.0\string and text.genruntimeconfig.cache
+C:\Users\rmink\source\repos\pregovor vtori srok\string and text\obj\Debug\net5.0\ref\string and text.dll

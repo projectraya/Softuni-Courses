@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\matrix\haha homework haha\bin\Debug\net5.0\haha homework haha.exe
+C:\Users\rmink\source\repos\matrix\haha homework haha\bin\Debug\net5.0\haha homework haha.deps.json
+C:\Users\rmink\source\repos\matrix\haha homework haha\bin\Debug\net5.0\haha homework haha.runtimeconfig.json
+C:\Users\rmink\source\repos\matrix\haha homework haha\bin\Debug\net5.0\haha homework haha.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\matrix\haha homework haha\bin\Debug\net5.0\haha homework haha.dll
+C:\Users\rmink\source\repos\matrix\haha homework haha\bin\Debug\net5.0\ref\haha homework haha.dll
+C:\Users\rmink\source\repos\matrix\haha homework haha\bin\Debug\net5.0\haha homework haha.pdb
+C:\Users\rmink\source\repos\matrix\haha homework haha\obj\Debug\net5.0\haha homework haha.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\matrix\haha homework haha\obj\Debug\net5.0\haha homework haha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\matrix\haha homework haha\obj\Debug\net5.0\haha homework haha.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\matrix\haha homework haha\obj\Debug\net5.0\haha homework haha.AssemblyInfo.cs
+C:\Users\rmink\source\repos\matrix\haha homework haha\obj\Debug\net5.0\haha homework haha.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\matrix\haha homework haha\obj\Debug\net5.0\haha homework haha.dll
+C:\Users\rmink\source\repos\matrix\haha homework haha\obj\Debug\net5.0\ref\haha homework haha.dll
+C:\Users\rmink\source\repos\matrix\haha homework haha\obj\Debug\net5.0\haha homework haha.pdb
+C:\Users\rmink\source\repos\matrix\haha homework haha\obj\Debug\net5.0\haha homework haha.genruntimeconfig.cache

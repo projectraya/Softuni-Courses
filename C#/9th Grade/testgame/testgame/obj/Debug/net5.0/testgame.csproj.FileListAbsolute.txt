@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\testgame\testgame\obj\Debug\net5.0\testgame.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\testgame\testgame\obj\Debug\net5.0\testgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\testgame\testgame\obj\Debug\net5.0\testgame.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\testgame\testgame\obj\Debug\net5.0\testgame.AssemblyInfo.cs
+C:\Users\rmink\source\repos\testgame\testgame\obj\Debug\net5.0\testgame.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\testgame\testgame\bin\Debug\net5.0\testgame.exe
+C:\Users\rmink\source\repos\testgame\testgame\bin\Debug\net5.0\testgame.deps.json
+C:\Users\rmink\source\repos\testgame\testgame\bin\Debug\net5.0\testgame.runtimeconfig.json
+C:\Users\rmink\source\repos\testgame\testgame\bin\Debug\net5.0\testgame.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\testgame\testgame\bin\Debug\net5.0\testgame.dll
+C:\Users\rmink\source\repos\testgame\testgame\bin\Debug\net5.0\testgame.pdb
+C:\Users\rmink\source\repos\testgame\testgame\obj\Debug\net5.0\testgame.dll
+C:\Users\rmink\source\repos\testgame\testgame\obj\Debug\net5.0\refint\testgame.dll
+C:\Users\rmink\source\repos\testgame\testgame\obj\Debug\net5.0\testgame.pdb
+C:\Users\rmink\source\repos\testgame\testgame\obj\Debug\net5.0\testgame.genruntimeconfig.cache
+C:\Users\rmink\source\repos\testgame\testgame\obj\Debug\net5.0\ref\testgame.dll

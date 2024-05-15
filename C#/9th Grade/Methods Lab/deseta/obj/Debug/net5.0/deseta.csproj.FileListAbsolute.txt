@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\methods\deseta\bin\Debug\net5.0\deseta.exe
+C:\Users\rmink\source\repos\methods\deseta\bin\Debug\net5.0\deseta.deps.json
+C:\Users\rmink\source\repos\methods\deseta\bin\Debug\net5.0\deseta.runtimeconfig.json
+C:\Users\rmink\source\repos\methods\deseta\bin\Debug\net5.0\deseta.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\methods\deseta\bin\Debug\net5.0\deseta.dll
+C:\Users\rmink\source\repos\methods\deseta\bin\Debug\net5.0\ref\deseta.dll
+C:\Users\rmink\source\repos\methods\deseta\bin\Debug\net5.0\deseta.pdb
+C:\Users\rmink\source\repos\methods\deseta\obj\Debug\net5.0\deseta.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\methods\deseta\obj\Debug\net5.0\deseta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\methods\deseta\obj\Debug\net5.0\deseta.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\methods\deseta\obj\Debug\net5.0\deseta.AssemblyInfo.cs
+C:\Users\rmink\source\repos\methods\deseta\obj\Debug\net5.0\deseta.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\methods\deseta\obj\Debug\net5.0\deseta.dll
+C:\Users\rmink\source\repos\methods\deseta\obj\Debug\net5.0\ref\deseta.dll
+C:\Users\rmink\source\repos\methods\deseta\obj\Debug\net5.0\deseta.pdb
+C:\Users\rmink\source\repos\methods\deseta\obj\Debug\net5.0\deseta.genruntimeconfig.cache

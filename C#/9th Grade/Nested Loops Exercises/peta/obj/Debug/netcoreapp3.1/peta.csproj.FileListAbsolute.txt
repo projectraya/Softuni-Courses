@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\nestedloopsex\peta\bin\Debug\netcoreapp3.1\peta.exe
+C:\Users\rmink\source\repos\nestedloopsex\peta\bin\Debug\netcoreapp3.1\peta.deps.json
+C:\Users\rmink\source\repos\nestedloopsex\peta\bin\Debug\netcoreapp3.1\peta.runtimeconfig.json
+C:\Users\rmink\source\repos\nestedloopsex\peta\bin\Debug\netcoreapp3.1\peta.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\nestedloopsex\peta\bin\Debug\netcoreapp3.1\peta.dll
+C:\Users\rmink\source\repos\nestedloopsex\peta\bin\Debug\netcoreapp3.1\peta.pdb
+C:\Users\rmink\source\repos\nestedloopsex\peta\obj\Debug\netcoreapp3.1\peta.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\nestedloopsex\peta\obj\Debug\netcoreapp3.1\peta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\nestedloopsex\peta\obj\Debug\netcoreapp3.1\peta.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\nestedloopsex\peta\obj\Debug\netcoreapp3.1\peta.AssemblyInfo.cs
+C:\Users\rmink\source\repos\nestedloopsex\peta\obj\Debug\netcoreapp3.1\peta.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\nestedloopsex\peta\obj\Debug\netcoreapp3.1\peta.dll
+C:\Users\rmink\source\repos\nestedloopsex\peta\obj\Debug\netcoreapp3.1\peta.pdb
+C:\Users\rmink\source\repos\nestedloopsex\peta\obj\Debug\netcoreapp3.1\peta.genruntimeconfig.cache

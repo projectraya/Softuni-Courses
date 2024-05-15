@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\methods exam\methods exam\bin\Debug\net5.0\purva.exe
+C:\Users\rmink\source\repos\methods exam\methods exam\bin\Debug\net5.0\purva.deps.json
+C:\Users\rmink\source\repos\methods exam\methods exam\bin\Debug\net5.0\purva.runtimeconfig.json
+C:\Users\rmink\source\repos\methods exam\methods exam\bin\Debug\net5.0\purva.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\methods exam\methods exam\bin\Debug\net5.0\purva.dll
+C:\Users\rmink\source\repos\methods exam\methods exam\bin\Debug\net5.0\ref\purva.dll
+C:\Users\rmink\source\repos\methods exam\methods exam\bin\Debug\net5.0\purva.pdb
+C:\Users\rmink\source\repos\methods exam\methods exam\obj\Debug\net5.0\purva.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\methods exam\methods exam\obj\Debug\net5.0\purva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\methods exam\methods exam\obj\Debug\net5.0\purva.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\methods exam\methods exam\obj\Debug\net5.0\purva.AssemblyInfo.cs
+C:\Users\rmink\source\repos\methods exam\methods exam\obj\Debug\net5.0\purva.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\methods exam\methods exam\obj\Debug\net5.0\purva.dll
+C:\Users\rmink\source\repos\methods exam\methods exam\obj\Debug\net5.0\ref\purva.dll
+C:\Users\rmink\source\repos\methods exam\methods exam\obj\Debug\net5.0\purva.pdb
+C:\Users\rmink\source\repos\methods exam\methods exam\obj\Debug\net5.0\purva.genruntimeconfig.cache

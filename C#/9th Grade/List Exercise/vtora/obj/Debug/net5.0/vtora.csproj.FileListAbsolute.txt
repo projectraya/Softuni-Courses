@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\listsexcersise\vtora\bin\Debug\net5.0\vtora.exe
+C:\Users\rmink\source\repos\listsexcersise\vtora\bin\Debug\net5.0\vtora.deps.json
+C:\Users\rmink\source\repos\listsexcersise\vtora\bin\Debug\net5.0\vtora.runtimeconfig.json
+C:\Users\rmink\source\repos\listsexcersise\vtora\bin\Debug\net5.0\vtora.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\listsexcersise\vtora\bin\Debug\net5.0\vtora.dll
+C:\Users\rmink\source\repos\listsexcersise\vtora\bin\Debug\net5.0\ref\vtora.dll
+C:\Users\rmink\source\repos\listsexcersise\vtora\bin\Debug\net5.0\vtora.pdb
+C:\Users\rmink\source\repos\listsexcersise\vtora\obj\Debug\net5.0\vtora.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\listsexcersise\vtora\obj\Debug\net5.0\vtora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\listsexcersise\vtora\obj\Debug\net5.0\vtora.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\listsexcersise\vtora\obj\Debug\net5.0\vtora.AssemblyInfo.cs
+C:\Users\rmink\source\repos\listsexcersise\vtora\obj\Debug\net5.0\vtora.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\listsexcersise\vtora\obj\Debug\net5.0\vtora.dll
+C:\Users\rmink\source\repos\listsexcersise\vtora\obj\Debug\net5.0\ref\vtora.dll
+C:\Users\rmink\source\repos\listsexcersise\vtora\obj\Debug\net5.0\vtora.pdb
+C:\Users\rmink\source\repos\listsexcersise\vtora\obj\Debug\net5.0\vtora.genruntimeconfig.cache

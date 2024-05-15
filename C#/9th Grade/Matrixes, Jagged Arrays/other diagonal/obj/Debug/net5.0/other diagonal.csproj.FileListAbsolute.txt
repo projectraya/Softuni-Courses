@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\matrix\other diagonal\bin\Debug\net5.0\other diagonal.exe
+C:\Users\rmink\source\repos\matrix\other diagonal\bin\Debug\net5.0\other diagonal.deps.json
+C:\Users\rmink\source\repos\matrix\other diagonal\bin\Debug\net5.0\other diagonal.runtimeconfig.json
+C:\Users\rmink\source\repos\matrix\other diagonal\bin\Debug\net5.0\other diagonal.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\matrix\other diagonal\bin\Debug\net5.0\other diagonal.dll
+C:\Users\rmink\source\repos\matrix\other diagonal\bin\Debug\net5.0\ref\other diagonal.dll
+C:\Users\rmink\source\repos\matrix\other diagonal\bin\Debug\net5.0\other diagonal.pdb
+C:\Users\rmink\source\repos\matrix\other diagonal\obj\Debug\net5.0\other diagonal.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\matrix\other diagonal\obj\Debug\net5.0\other diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\matrix\other diagonal\obj\Debug\net5.0\other diagonal.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\matrix\other diagonal\obj\Debug\net5.0\other diagonal.AssemblyInfo.cs
+C:\Users\rmink\source\repos\matrix\other diagonal\obj\Debug\net5.0\other diagonal.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\matrix\other diagonal\obj\Debug\net5.0\other diagonal.dll
+C:\Users\rmink\source\repos\matrix\other diagonal\obj\Debug\net5.0\ref\other diagonal.dll
+C:\Users\rmink\source\repos\matrix\other diagonal\obj\Debug\net5.0\other diagonal.pdb
+C:\Users\rmink\source\repos\matrix\other diagonal\obj\Debug\net5.0\other diagonal.genruntimeconfig.cache

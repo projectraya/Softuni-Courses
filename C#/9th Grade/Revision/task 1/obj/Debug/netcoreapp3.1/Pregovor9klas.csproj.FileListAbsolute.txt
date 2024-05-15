@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Pregovor 1\Pregovor9klas\bin\Debug\netcoreapp3.1\Pregovor9klas.exe
+C:\Users\rmink\source\repos\Pregovor 1\Pregovor9klas\bin\Debug\netcoreapp3.1\Pregovor9klas.deps.json
+C:\Users\rmink\source\repos\Pregovor 1\Pregovor9klas\bin\Debug\netcoreapp3.1\Pregovor9klas.runtimeconfig.json
+C:\Users\rmink\source\repos\Pregovor 1\Pregovor9klas\bin\Debug\netcoreapp3.1\Pregovor9klas.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\Pregovor 1\Pregovor9klas\bin\Debug\netcoreapp3.1\Pregovor9klas.dll
+C:\Users\rmink\source\repos\Pregovor 1\Pregovor9klas\bin\Debug\netcoreapp3.1\Pregovor9klas.pdb
+C:\Users\rmink\source\repos\Pregovor 1\Pregovor9klas\obj\Debug\netcoreapp3.1\Pregovor9klas.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\Pregovor 1\Pregovor9klas\obj\Debug\netcoreapp3.1\Pregovor9klas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Pregovor 1\Pregovor9klas\obj\Debug\netcoreapp3.1\Pregovor9klas.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Pregovor 1\Pregovor9klas\obj\Debug\netcoreapp3.1\Pregovor9klas.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Pregovor 1\Pregovor9klas\obj\Debug\netcoreapp3.1\Pregovor9klas.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Pregovor 1\Pregovor9klas\obj\Debug\netcoreapp3.1\Pregovor9klas.dll
+C:\Users\rmink\source\repos\Pregovor 1\Pregovor9klas\obj\Debug\netcoreapp3.1\Pregovor9klas.pdb
+C:\Users\rmink\source\repos\Pregovor 1\Pregovor9klas\obj\Debug\netcoreapp3.1\Pregovor9klas.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\rmink\source\repos\nestedloopsex\shesta\bin\Debug\netcoreapp3.1\shesta.exe
+C:\Users\rmink\source\repos\nestedloopsex\shesta\bin\Debug\netcoreapp3.1\shesta.deps.json
+C:\Users\rmink\source\repos\nestedloopsex\shesta\bin\Debug\netcoreapp3.1\shesta.runtimeconfig.json
+C:\Users\rmink\source\repos\nestedloopsex\shesta\bin\Debug\netcoreapp3.1\shesta.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\nestedloopsex\shesta\bin\Debug\netcoreapp3.1\shesta.dll
+C:\Users\rmink\source\repos\nestedloopsex\shesta\bin\Debug\netcoreapp3.1\shesta.pdb
+C:\Users\rmink\source\repos\nestedloopsex\shesta\obj\Debug\netcoreapp3.1\shesta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\nestedloopsex\shesta\obj\Debug\netcoreapp3.1\shesta.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\nestedloopsex\shesta\obj\Debug\netcoreapp3.1\shesta.AssemblyInfo.cs
+C:\Users\rmink\source\repos\nestedloopsex\shesta\obj\Debug\netcoreapp3.1\shesta.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\nestedloopsex\shesta\obj\Debug\netcoreapp3.1\shesta.dll
+C:\Users\rmink\source\repos\nestedloopsex\shesta\obj\Debug\netcoreapp3.1\shesta.pdb
+C:\Users\rmink\source\repos\nestedloopsex\shesta\obj\Debug\netcoreapp3.1\shesta.genruntimeconfig.cache

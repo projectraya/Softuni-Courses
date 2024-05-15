@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Pregovor 1\gender\bin\Debug\netcoreapp3.1\gender.exe
+C:\Users\rmink\source\repos\Pregovor 1\gender\bin\Debug\netcoreapp3.1\gender.deps.json
+C:\Users\rmink\source\repos\Pregovor 1\gender\bin\Debug\netcoreapp3.1\gender.runtimeconfig.json
+C:\Users\rmink\source\repos\Pregovor 1\gender\bin\Debug\netcoreapp3.1\gender.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\Pregovor 1\gender\bin\Debug\netcoreapp3.1\gender.dll
+C:\Users\rmink\source\repos\Pregovor 1\gender\bin\Debug\netcoreapp3.1\gender.pdb
+C:\Users\rmink\source\repos\Pregovor 1\gender\obj\Debug\netcoreapp3.1\gender.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\Pregovor 1\gender\obj\Debug\netcoreapp3.1\gender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Pregovor 1\gender\obj\Debug\netcoreapp3.1\gender.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Pregovor 1\gender\obj\Debug\netcoreapp3.1\gender.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Pregovor 1\gender\obj\Debug\netcoreapp3.1\gender.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Pregovor 1\gender\obj\Debug\netcoreapp3.1\gender.dll
+C:\Users\rmink\source\repos\Pregovor 1\gender\obj\Debug\netcoreapp3.1\gender.pdb
+C:\Users\rmink\source\repos\Pregovor 1\gender\obj\Debug\netcoreapp3.1\gender.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\gg\gg\bin\Debug\net5.0\gg.exe
+C:\Users\rmink\source\repos\gg\gg\bin\Debug\net5.0\gg.deps.json
+C:\Users\rmink\source\repos\gg\gg\bin\Debug\net5.0\gg.runtimeconfig.json
+C:\Users\rmink\source\repos\gg\gg\bin\Debug\net5.0\gg.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\gg\gg\bin\Debug\net5.0\gg.dll
+C:\Users\rmink\source\repos\gg\gg\bin\Debug\net5.0\gg.pdb
+C:\Users\rmink\source\repos\gg\gg\obj\Debug\net5.0\gg.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\gg\gg\obj\Debug\net5.0\gg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\gg\gg\obj\Debug\net5.0\gg.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\gg\gg\obj\Debug\net5.0\gg.AssemblyInfo.cs
+C:\Users\rmink\source\repos\gg\gg\obj\Debug\net5.0\gg.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\gg\gg\obj\Debug\net5.0\gg.dll
+C:\Users\rmink\source\repos\gg\gg\obj\Debug\net5.0\refint\gg.dll
+C:\Users\rmink\source\repos\gg\gg\obj\Debug\net5.0\gg.pdb
+C:\Users\rmink\source\repos\gg\gg\obj\Debug\net5.0\gg.genruntimeconfig.cache
+C:\Users\rmink\source\repos\gg\gg\obj\Debug\net5.0\ref\gg.dll

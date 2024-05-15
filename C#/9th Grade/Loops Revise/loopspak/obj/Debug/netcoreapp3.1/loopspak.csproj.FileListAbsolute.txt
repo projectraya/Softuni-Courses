@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\loopspak\loopspak\bin\Debug\netcoreapp3.1\loopspak.exe
+C:\Users\rmink\source\repos\loopspak\loopspak\bin\Debug\netcoreapp3.1\loopspak.deps.json
+C:\Users\rmink\source\repos\loopspak\loopspak\bin\Debug\netcoreapp3.1\loopspak.runtimeconfig.json
+C:\Users\rmink\source\repos\loopspak\loopspak\bin\Debug\netcoreapp3.1\loopspak.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\loopspak\loopspak\bin\Debug\netcoreapp3.1\loopspak.dll
+C:\Users\rmink\source\repos\loopspak\loopspak\bin\Debug\netcoreapp3.1\loopspak.pdb
+C:\Users\rmink\source\repos\loopspak\loopspak\obj\Debug\netcoreapp3.1\loopspak.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\loopspak\loopspak\obj\Debug\netcoreapp3.1\loopspak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\loopspak\loopspak\obj\Debug\netcoreapp3.1\loopspak.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\loopspak\loopspak\obj\Debug\netcoreapp3.1\loopspak.AssemblyInfo.cs
+C:\Users\rmink\source\repos\loopspak\loopspak\obj\Debug\netcoreapp3.1\loopspak.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\loopspak\loopspak\obj\Debug\netcoreapp3.1\loopspak.dll
+C:\Users\rmink\source\repos\loopspak\loopspak\obj\Debug\netcoreapp3.1\loopspak.pdb
+C:\Users\rmink\source\repos\loopspak\loopspak\obj\Debug\netcoreapp3.1\loopspak.genruntimeconfig.cache

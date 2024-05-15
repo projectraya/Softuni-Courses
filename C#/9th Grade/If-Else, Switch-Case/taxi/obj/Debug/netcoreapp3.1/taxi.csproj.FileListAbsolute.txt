@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\test\taxi\bin\Debug\netcoreapp3.1\taxi.exe
+C:\Users\rmink\source\repos\test\taxi\bin\Debug\netcoreapp3.1\taxi.deps.json
+C:\Users\rmink\source\repos\test\taxi\bin\Debug\netcoreapp3.1\taxi.runtimeconfig.json
+C:\Users\rmink\source\repos\test\taxi\bin\Debug\netcoreapp3.1\taxi.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\test\taxi\bin\Debug\netcoreapp3.1\taxi.dll
+C:\Users\rmink\source\repos\test\taxi\bin\Debug\netcoreapp3.1\taxi.pdb
+C:\Users\rmink\source\repos\test\taxi\obj\Debug\netcoreapp3.1\taxi.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\test\taxi\obj\Debug\netcoreapp3.1\taxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\test\taxi\obj\Debug\netcoreapp3.1\taxi.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\test\taxi\obj\Debug\netcoreapp3.1\taxi.AssemblyInfo.cs
+C:\Users\rmink\source\repos\test\taxi\obj\Debug\netcoreapp3.1\taxi.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\test\taxi\obj\Debug\netcoreapp3.1\taxi.dll
+C:\Users\rmink\source\repos\test\taxi\obj\Debug\netcoreapp3.1\taxi.pdb
+C:\Users\rmink\source\repos\test\taxi\obj\Debug\netcoreapp3.1\taxi.genruntimeconfig.cache

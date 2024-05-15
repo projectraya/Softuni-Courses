@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\nested conditionals\outfit\bin\Debug\netcoreapp3.1\outfit.exe
+C:\Users\rmink\source\repos\nested conditionals\outfit\bin\Debug\netcoreapp3.1\outfit.deps.json
+C:\Users\rmink\source\repos\nested conditionals\outfit\bin\Debug\netcoreapp3.1\outfit.runtimeconfig.json
+C:\Users\rmink\source\repos\nested conditionals\outfit\bin\Debug\netcoreapp3.1\outfit.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\nested conditionals\outfit\bin\Debug\netcoreapp3.1\outfit.dll
+C:\Users\rmink\source\repos\nested conditionals\outfit\bin\Debug\netcoreapp3.1\outfit.pdb
+C:\Users\rmink\source\repos\nested conditionals\outfit\obj\Debug\netcoreapp3.1\outfit.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\nested conditionals\outfit\obj\Debug\netcoreapp3.1\outfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\nested conditionals\outfit\obj\Debug\netcoreapp3.1\outfit.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\nested conditionals\outfit\obj\Debug\netcoreapp3.1\outfit.AssemblyInfo.cs
+C:\Users\rmink\source\repos\nested conditionals\outfit\obj\Debug\netcoreapp3.1\outfit.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\nested conditionals\outfit\obj\Debug\netcoreapp3.1\outfit.dll
+C:\Users\rmink\source\repos\nested conditionals\outfit\obj\Debug\netcoreapp3.1\outfit.pdb
+C:\Users\rmink\source\repos\nested conditionals\outfit\obj\Debug\netcoreapp3.1\outfit.genruntimeconfig.cache

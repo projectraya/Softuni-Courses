@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\purva\tretaotnovo\bin\Debug\netcoreapp3.1\tretaotnovo.exe
+C:\Users\rmink\source\repos\purva\tretaotnovo\bin\Debug\netcoreapp3.1\tretaotnovo.deps.json
+C:\Users\rmink\source\repos\purva\tretaotnovo\bin\Debug\netcoreapp3.1\tretaotnovo.runtimeconfig.json
+C:\Users\rmink\source\repos\purva\tretaotnovo\bin\Debug\netcoreapp3.1\tretaotnovo.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\purva\tretaotnovo\bin\Debug\netcoreapp3.1\tretaotnovo.dll
+C:\Users\rmink\source\repos\purva\tretaotnovo\bin\Debug\netcoreapp3.1\tretaotnovo.pdb
+C:\Users\rmink\source\repos\purva\tretaotnovo\obj\Debug\netcoreapp3.1\tretaotnovo.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\purva\tretaotnovo\obj\Debug\netcoreapp3.1\tretaotnovo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\purva\tretaotnovo\obj\Debug\netcoreapp3.1\tretaotnovo.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\purva\tretaotnovo\obj\Debug\netcoreapp3.1\tretaotnovo.AssemblyInfo.cs
+C:\Users\rmink\source\repos\purva\tretaotnovo\obj\Debug\netcoreapp3.1\tretaotnovo.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\purva\tretaotnovo\obj\Debug\netcoreapp3.1\tretaotnovo.dll
+C:\Users\rmink\source\repos\purva\tretaotnovo\obj\Debug\netcoreapp3.1\tretaotnovo.pdb
+C:\Users\rmink\source\repos\purva\tretaotnovo\obj\Debug\netcoreapp3.1\tretaotnovo.genruntimeconfig.cache

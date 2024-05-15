@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\nestedloopsex\treta\bin\Debug\netcoreapp3.1\treta.exe
+C:\Users\rmink\source\repos\nestedloopsex\treta\bin\Debug\netcoreapp3.1\treta.deps.json
+C:\Users\rmink\source\repos\nestedloopsex\treta\bin\Debug\netcoreapp3.1\treta.runtimeconfig.json
+C:\Users\rmink\source\repos\nestedloopsex\treta\bin\Debug\netcoreapp3.1\treta.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\nestedloopsex\treta\bin\Debug\netcoreapp3.1\treta.dll
+C:\Users\rmink\source\repos\nestedloopsex\treta\bin\Debug\netcoreapp3.1\treta.pdb
+C:\Users\rmink\source\repos\nestedloopsex\treta\obj\Debug\netcoreapp3.1\treta.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\nestedloopsex\treta\obj\Debug\netcoreapp3.1\treta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\nestedloopsex\treta\obj\Debug\netcoreapp3.1\treta.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\nestedloopsex\treta\obj\Debug\netcoreapp3.1\treta.AssemblyInfo.cs
+C:\Users\rmink\source\repos\nestedloopsex\treta\obj\Debug\netcoreapp3.1\treta.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\nestedloopsex\treta\obj\Debug\netcoreapp3.1\treta.dll
+C:\Users\rmink\source\repos\nestedloopsex\treta\obj\Debug\netcoreapp3.1\treta.pdb
+C:\Users\rmink\source\repos\nestedloopsex\treta\obj\Debug\netcoreapp3.1\treta.genruntimeconfig.cache

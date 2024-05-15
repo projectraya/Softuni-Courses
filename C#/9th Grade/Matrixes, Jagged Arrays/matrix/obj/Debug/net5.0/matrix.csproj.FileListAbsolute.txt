@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\matrix\matrix\bin\Debug\net5.0\matrix.exe
+C:\Users\rmink\source\repos\matrix\matrix\bin\Debug\net5.0\matrix.deps.json
+C:\Users\rmink\source\repos\matrix\matrix\bin\Debug\net5.0\matrix.runtimeconfig.json
+C:\Users\rmink\source\repos\matrix\matrix\bin\Debug\net5.0\matrix.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\matrix\matrix\bin\Debug\net5.0\matrix.dll
+C:\Users\rmink\source\repos\matrix\matrix\bin\Debug\net5.0\ref\matrix.dll
+C:\Users\rmink\source\repos\matrix\matrix\bin\Debug\net5.0\matrix.pdb
+C:\Users\rmink\source\repos\matrix\matrix\obj\Debug\net5.0\matrix.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\matrix\matrix\obj\Debug\net5.0\matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\matrix\matrix\obj\Debug\net5.0\matrix.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\matrix\matrix\obj\Debug\net5.0\matrix.AssemblyInfo.cs
+C:\Users\rmink\source\repos\matrix\matrix\obj\Debug\net5.0\matrix.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\matrix\matrix\obj\Debug\net5.0\matrix.dll
+C:\Users\rmink\source\repos\matrix\matrix\obj\Debug\net5.0\ref\matrix.dll
+C:\Users\rmink\source\repos\matrix\matrix\obj\Debug\net5.0\matrix.pdb
+C:\Users\rmink\source\repos\matrix\matrix\obj\Debug\net5.0\matrix.genruntimeconfig.cache

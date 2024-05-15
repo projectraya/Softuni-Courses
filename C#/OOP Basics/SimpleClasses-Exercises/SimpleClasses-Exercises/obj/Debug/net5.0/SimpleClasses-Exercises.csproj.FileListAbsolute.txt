@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\SimpleClasses-Exercises\bin\Debug\net5.0\SimpleClasses-Exercises.exe
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\SimpleClasses-Exercises\bin\Debug\net5.0\SimpleClasses-Exercises.deps.json
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\SimpleClasses-Exercises\bin\Debug\net5.0\SimpleClasses-Exercises.runtimeconfig.json
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\SimpleClasses-Exercises\bin\Debug\net5.0\SimpleClasses-Exercises.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\SimpleClasses-Exercises\bin\Debug\net5.0\SimpleClasses-Exercises.dll
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\SimpleClasses-Exercises\bin\Debug\net5.0\SimpleClasses-Exercises.pdb
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\SimpleClasses-Exercises\obj\Debug\net5.0\SimpleClasses-Exercises.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\SimpleClasses-Exercises\obj\Debug\net5.0\SimpleClasses-Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\SimpleClasses-Exercises\obj\Debug\net5.0\SimpleClasses-Exercises.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\SimpleClasses-Exercises\obj\Debug\net5.0\SimpleClasses-Exercises.AssemblyInfo.cs
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\SimpleClasses-Exercises\obj\Debug\net5.0\SimpleClasses-Exercises.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\SimpleClasses-Exercises\obj\Debug\net5.0\SimpleClasses-Exercises.dll
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\SimpleClasses-Exercises\obj\Debug\net5.0\refint\SimpleClasses-Exercises.dll
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\SimpleClasses-Exercises\obj\Debug\net5.0\SimpleClasses-Exercises.pdb
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\SimpleClasses-Exercises\obj\Debug\net5.0\SimpleClasses-Exercises.genruntimeconfig.cache
+C:\Users\rmink\source\repos\SimpleClasses-Exercises\SimpleClasses-Exercises\obj\Debug\net5.0\ref\SimpleClasses-Exercises.dll

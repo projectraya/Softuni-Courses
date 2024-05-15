@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\nestedloopsex\chetvurta\bin\Debug\netcoreapp3.1\chetvurta.exe
+C:\Users\rmink\source\repos\nestedloopsex\chetvurta\bin\Debug\netcoreapp3.1\chetvurta.deps.json
+C:\Users\rmink\source\repos\nestedloopsex\chetvurta\bin\Debug\netcoreapp3.1\chetvurta.runtimeconfig.json
+C:\Users\rmink\source\repos\nestedloopsex\chetvurta\bin\Debug\netcoreapp3.1\chetvurta.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\nestedloopsex\chetvurta\bin\Debug\netcoreapp3.1\chetvurta.dll
+C:\Users\rmink\source\repos\nestedloopsex\chetvurta\bin\Debug\netcoreapp3.1\chetvurta.pdb
+C:\Users\rmink\source\repos\nestedloopsex\chetvurta\obj\Debug\netcoreapp3.1\chetvurta.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\nestedloopsex\chetvurta\obj\Debug\netcoreapp3.1\chetvurta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\nestedloopsex\chetvurta\obj\Debug\netcoreapp3.1\chetvurta.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\nestedloopsex\chetvurta\obj\Debug\netcoreapp3.1\chetvurta.AssemblyInfo.cs
+C:\Users\rmink\source\repos\nestedloopsex\chetvurta\obj\Debug\netcoreapp3.1\chetvurta.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\nestedloopsex\chetvurta\obj\Debug\netcoreapp3.1\chetvurta.dll
+C:\Users\rmink\source\repos\nestedloopsex\chetvurta\obj\Debug\netcoreapp3.1\chetvurta.pdb
+C:\Users\rmink\source\repos\nestedloopsex\chetvurta\obj\Debug\netcoreapp3.1\chetvurta.genruntimeconfig.cache
