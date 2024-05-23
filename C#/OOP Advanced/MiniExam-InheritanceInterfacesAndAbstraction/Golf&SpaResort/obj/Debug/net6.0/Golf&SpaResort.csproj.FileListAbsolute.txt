@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\Golf&SpaResort\bin\Debug\net6.0\Golf&SpaResort.exe
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\Golf&SpaResort\bin\Debug\net6.0\Golf&SpaResort.deps.json
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\Golf&SpaResort\bin\Debug\net6.0\Golf&SpaResort.runtimeconfig.json
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\Golf&SpaResort\bin\Debug\net6.0\Golf&SpaResort.dll
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\Golf&SpaResort\bin\Debug\net6.0\Golf&SpaResort.pdb
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\Golf&SpaResort\obj\Debug\net6.0\Golf&SpaResort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\Golf&SpaResort\obj\Debug\net6.0\Golf&SpaResort.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\Golf&SpaResort\obj\Debug\net6.0\Golf&SpaResort.AssemblyInfo.cs
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\Golf&SpaResort\obj\Debug\net6.0\Golf&SpaResort.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\Golf&SpaResort\obj\Debug\net6.0\Golf&SpaResort.dll
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\Golf&SpaResort\obj\Debug\net6.0\refint\Golf&SpaResort.dll
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\Golf&SpaResort\obj\Debug\net6.0\Golf&SpaResort.pdb
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\Golf&SpaResort\obj\Debug\net6.0\Golf&SpaResort.genruntimeconfig.cache
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\Golf&SpaResort\obj\Debug\net6.0\ref\Golf&SpaResort.dll

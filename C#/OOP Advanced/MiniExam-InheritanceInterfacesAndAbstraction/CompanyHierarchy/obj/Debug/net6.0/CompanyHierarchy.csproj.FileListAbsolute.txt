@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\CompanyHierarchy\bin\Debug\net6.0\CompanyHierarchy.exe
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\CompanyHierarchy\bin\Debug\net6.0\CompanyHierarchy.deps.json
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\CompanyHierarchy\bin\Debug\net6.0\CompanyHierarchy.runtimeconfig.json
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\CompanyHierarchy\bin\Debug\net6.0\CompanyHierarchy.dll
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\CompanyHierarchy\bin\Debug\net6.0\CompanyHierarchy.pdb
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\CompanyHierarchy\obj\Debug\net6.0\CompanyHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\CompanyHierarchy\obj\Debug\net6.0\CompanyHierarchy.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\CompanyHierarchy\obj\Debug\net6.0\CompanyHierarchy.AssemblyInfo.cs
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\CompanyHierarchy\obj\Debug\net6.0\CompanyHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\CompanyHierarchy\obj\Debug\net6.0\CompanyHierarchy.dll
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\CompanyHierarchy\obj\Debug\net6.0\refint\CompanyHierarchy.dll
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\CompanyHierarchy\obj\Debug\net6.0\CompanyHierarchy.pdb
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\CompanyHierarchy\obj\Debug\net6.0\CompanyHierarchy.genruntimeconfig.cache
+C:\Users\rmink\source\repos\MiniExam-InheritanceInterfacesAndAbstraction\CompanyHierarchy\obj\Debug\net6.0\ref\CompanyHierarchy.dll
