@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Polymorphism-Lab\Operations\bin\Debug\net6.0\Operations.exe
+C:\Users\rmink\source\repos\Polymorphism-Lab\Operations\bin\Debug\net6.0\Operations.deps.json
+C:\Users\rmink\source\repos\Polymorphism-Lab\Operations\bin\Debug\net6.0\Operations.runtimeconfig.json
+C:\Users\rmink\source\repos\Polymorphism-Lab\Operations\bin\Debug\net6.0\Operations.dll
+C:\Users\rmink\source\repos\Polymorphism-Lab\Operations\bin\Debug\net6.0\Operations.pdb
+C:\Users\rmink\source\repos\Polymorphism-Lab\Operations\obj\Debug\net6.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Polymorphism-Lab\Operations\obj\Debug\net6.0\Operations.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Polymorphism-Lab\Operations\obj\Debug\net6.0\Operations.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Polymorphism-Lab\Operations\obj\Debug\net6.0\Operations.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Polymorphism-Lab\Operations\obj\Debug\net6.0\Operations.dll
+C:\Users\rmink\source\repos\Polymorphism-Lab\Operations\obj\Debug\net6.0\refint\Operations.dll
+C:\Users\rmink\source\repos\Polymorphism-Lab\Operations\obj\Debug\net6.0\Operations.pdb
+C:\Users\rmink\source\repos\Polymorphism-Lab\Operations\obj\Debug\net6.0\Operations.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Polymorphism-Lab\Operations\obj\Debug\net6.0\ref\Operations.dll
