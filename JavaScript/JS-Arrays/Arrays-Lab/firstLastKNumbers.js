@@ -1,0 +1,3 @@
+function firstAndLastKNumbers(){
+    //TO DO
+}

@@ -1,0 +1,11 @@
+function examPreparation(input){
+    let arr = Array(input.split(","))
+
+    arr.forEach(element => {
+        if(element == "Enough");
+    });
+    let unsatGrades = Number(arr[0]);
+    let taskName = arr[1];
+
+}
+
