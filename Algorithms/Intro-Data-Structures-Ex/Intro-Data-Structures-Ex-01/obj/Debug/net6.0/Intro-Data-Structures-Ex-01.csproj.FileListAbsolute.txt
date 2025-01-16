@@ -1,0 +1,17 @@
+C:\Users\rmink\source\repos\Intro-Data-Structures-Ex\Intro-Data-Structures-Ex-01\bin\Debug\net6.0\Intro-Data-Structures-Ex-01.exe
+C:\Users\rmink\source\repos\Intro-Data-Structures-Ex\Intro-Data-Structures-Ex-01\bin\Debug\net6.0\Intro-Data-Structures-Ex-01.deps.json
+C:\Users\rmink\source\repos\Intro-Data-Structures-Ex\Intro-Data-Structures-Ex-01\bin\Debug\net6.0\Intro-Data-Structures-Ex-01.runtimeconfig.json
+C:\Users\rmink\source\repos\Intro-Data-Structures-Ex\Intro-Data-Structures-Ex-01\bin\Debug\net6.0\Intro-Data-Structures-Ex-01.dll
+C:\Users\rmink\source\repos\Intro-Data-Structures-Ex\Intro-Data-Structures-Ex-01\bin\Debug\net6.0\Intro-Data-Structures-Ex-01.pdb
+C:\Users\rmink\source\repos\Intro-Data-Structures-Ex\Intro-Data-Structures-Ex-01\bin\Debug\net6.0\Wintellect.PowerCollections.dll
+C:\Users\rmink\source\repos\Intro-Data-Structures-Ex\Intro-Data-Structures-Ex-01\obj\Debug\net6.0\Intro-Data-Structures-Ex-01.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\Intro-Data-Structures-Ex\Intro-Data-Structures-Ex-01\obj\Debug\net6.0\Intro-Data-Structures-Ex-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Intro-Data-Structures-Ex\Intro-Data-Structures-Ex-01\obj\Debug\net6.0\Intro-Data-Structures-Ex-01.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Intro-Data-Structures-Ex\Intro-Data-Structures-Ex-01\obj\Debug\net6.0\Intro-Data-Structures-Ex-01.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Intro-Data-Structures-Ex\Intro-Data-Structures-Ex-01\obj\Debug\net6.0\Intro-Data-Structures-Ex-01.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Intro-Data-Structures-Ex\Intro-Data-Structures-Ex-01\obj\Debug\net6.0\Intro-Data-Structures-Ex-01.csproj.CopyComplete
+C:\Users\rmink\source\repos\Intro-Data-Structures-Ex\Intro-Data-Structures-Ex-01\obj\Debug\net6.0\Intro-Data-Structures-Ex-01.dll
+C:\Users\rmink\source\repos\Intro-Data-Structures-Ex\Intro-Data-Structures-Ex-01\obj\Debug\net6.0\refint\Intro-Data-Structures-Ex-01.dll
+C:\Users\rmink\source\repos\Intro-Data-Structures-Ex\Intro-Data-Structures-Ex-01\obj\Debug\net6.0\Intro-Data-Structures-Ex-01.pdb
+C:\Users\rmink\source\repos\Intro-Data-Structures-Ex\Intro-Data-Structures-Ex-01\obj\Debug\net6.0\Intro-Data-Structures-Ex-01.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Intro-Data-Structures-Ex\Intro-Data-Structures-Ex-01\obj\Debug\net6.0\ref\Intro-Data-Structures-Ex-01.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Trees-Lab-02/1.0.0": {
+        "runtime": {
+          "Trees-Lab-02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trees-Lab-02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

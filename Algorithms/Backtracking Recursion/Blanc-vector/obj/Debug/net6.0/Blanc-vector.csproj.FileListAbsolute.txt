@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Backtracking Recursion\Blanc-vector\bin\Debug\net6.0\Blanc-vector.exe
+C:\Users\rmink\source\repos\Backtracking Recursion\Blanc-vector\bin\Debug\net6.0\Blanc-vector.deps.json
+C:\Users\rmink\source\repos\Backtracking Recursion\Blanc-vector\bin\Debug\net6.0\Blanc-vector.runtimeconfig.json
+C:\Users\rmink\source\repos\Backtracking Recursion\Blanc-vector\bin\Debug\net6.0\Blanc-vector.dll
+C:\Users\rmink\source\repos\Backtracking Recursion\Blanc-vector\bin\Debug\net6.0\Blanc-vector.pdb
+C:\Users\rmink\source\repos\Backtracking Recursion\Blanc-vector\obj\Debug\net6.0\Blanc-vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Backtracking Recursion\Blanc-vector\obj\Debug\net6.0\Blanc-vector.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Backtracking Recursion\Blanc-vector\obj\Debug\net6.0\Blanc-vector.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Backtracking Recursion\Blanc-vector\obj\Debug\net6.0\Blanc-vector.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Backtracking Recursion\Blanc-vector\obj\Debug\net6.0\Blanc-vector.dll
+C:\Users\rmink\source\repos\Backtracking Recursion\Blanc-vector\obj\Debug\net6.0\refint\Blanc-vector.dll
+C:\Users\rmink\source\repos\Backtracking Recursion\Blanc-vector\obj\Debug\net6.0\Blanc-vector.pdb
+C:\Users\rmink\source\repos\Backtracking Recursion\Blanc-vector\obj\Debug\net6.0\Blanc-vector.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Backtracking Recursion\Blanc-vector\obj\Debug\net6.0\ref\Blanc-vector.dll

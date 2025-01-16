@@ -1,0 +1,16 @@
+C:\Users\rmink\source\repos\Trees-Exercises\Trees-Exercise-01\bin\Debug\netcoreapp3.1\Trees-Lab-01.exe
+C:\Users\rmink\source\repos\Trees-Exercises\Trees-Exercise-01\bin\Debug\netcoreapp3.1\Trees-Lab-01.deps.json
+C:\Users\rmink\source\repos\Trees-Exercises\Trees-Exercise-01\bin\Debug\netcoreapp3.1\Trees-Lab-01.runtimeconfig.json
+C:\Users\rmink\source\repos\Trees-Exercises\Trees-Exercise-01\bin\Debug\netcoreapp3.1\Trees-Lab-01.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\Trees-Exercises\Trees-Exercise-01\bin\Debug\netcoreapp3.1\Trees-Lab-01.dll
+C:\Users\rmink\source\repos\Trees-Exercises\Trees-Exercise-01\bin\Debug\netcoreapp3.1\Trees-Lab-01.pdb
+C:\Users\rmink\source\repos\Trees-Exercises\Trees-Exercise-01\bin\Debug\netcoreapp3.1\SimpleTreeNode.dll
+C:\Users\rmink\source\repos\Trees-Exercises\Trees-Exercise-01\obj\Debug\netcoreapp3.1\Trees-Lab-01.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\Trees-Exercises\Trees-Exercise-01\obj\Debug\netcoreapp3.1\Trees-Lab-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Trees-Exercises\Trees-Exercise-01\obj\Debug\netcoreapp3.1\Trees-Lab-01.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Trees-Exercises\Trees-Exercise-01\obj\Debug\netcoreapp3.1\Trees-Lab-01.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Trees-Exercises\Trees-Exercise-01\obj\Debug\netcoreapp3.1\Trees-Lab-01.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Trees-Exercises\Trees-Exercise-01\obj\Debug\netcoreapp3.1\Trees-Lab-01.csproj.CopyComplete
+C:\Users\rmink\source\repos\Trees-Exercises\Trees-Exercise-01\obj\Debug\netcoreapp3.1\Trees-Lab-01.dll
+C:\Users\rmink\source\repos\Trees-Exercises\Trees-Exercise-01\obj\Debug\netcoreapp3.1\Trees-Lab-01.pdb
+C:\Users\rmink\source\repos\Trees-Exercises\Trees-Exercise-01\obj\Debug\netcoreapp3.1\Trees-Lab-01.genruntimeconfig.cache

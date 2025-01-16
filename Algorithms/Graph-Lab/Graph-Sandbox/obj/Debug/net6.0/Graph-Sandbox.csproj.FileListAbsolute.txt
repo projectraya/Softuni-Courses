@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Graph-Lab\Graph-Sandbox\bin\Debug\net6.0\Graph-Sandbox.exe
+C:\Users\rmink\source\repos\Graph-Lab\Graph-Sandbox\bin\Debug\net6.0\Graph-Sandbox.deps.json
+C:\Users\rmink\source\repos\Graph-Lab\Graph-Sandbox\bin\Debug\net6.0\Graph-Sandbox.runtimeconfig.json
+C:\Users\rmink\source\repos\Graph-Lab\Graph-Sandbox\bin\Debug\net6.0\Graph-Sandbox.dll
+C:\Users\rmink\source\repos\Graph-Lab\Graph-Sandbox\bin\Debug\net6.0\Graph-Sandbox.pdb
+C:\Users\rmink\source\repos\Graph-Lab\Graph-Sandbox\obj\Debug\net6.0\Graph-Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Graph-Lab\Graph-Sandbox\obj\Debug\net6.0\Graph-Sandbox.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Graph-Lab\Graph-Sandbox\obj\Debug\net6.0\Graph-Sandbox.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Graph-Lab\Graph-Sandbox\obj\Debug\net6.0\Graph-Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Graph-Lab\Graph-Sandbox\obj\Debug\net6.0\Graph-Sandbox.dll
+C:\Users\rmink\source\repos\Graph-Lab\Graph-Sandbox\obj\Debug\net6.0\refint\Graph-Sandbox.dll
+C:\Users\rmink\source\repos\Graph-Lab\Graph-Sandbox\obj\Debug\net6.0\Graph-Sandbox.pdb
+C:\Users\rmink\source\repos\Graph-Lab\Graph-Sandbox\obj\Debug\net6.0\Graph-Sandbox.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Graph-Lab\Graph-Sandbox\obj\Debug\net6.0\ref\Graph-Sandbox.dll

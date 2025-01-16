@@ -1,0 +1,75 @@
+//1. All Information About Departments
+select * from Departments
+
+//2. All Department Names
+select Name from Departments
+
+//3. Salary of Each Employee
+select FirstName, LastName, Salary from Employees
+
+//4. All Different Employee’s Salaries
+select DISTINCT Salary from Employees
+ORDER BY Salary
+	
+
+//5. Names of All Employees by Salary in Range
+select e.FirstName, e.LastName, e.JobTitle
+from Employees as e
+where e.Salary between 20000 and 30000
+
+//6. All Employees Without Manager
+select e.FirstName, e.LastName
+from Employees as e
+where e.ManagerID is null
+
+//7. All Employees with Salary More Than
+select e.FirstName, e.LastName, e.Salary
+from Employees as e
+where e.Salary > 50000
+order by e.Salary DESC
+
+//8. 5 Best Paid Employees
+select top(5) e.FirstName, e.LastName
+from Employees as e
+order by e.Salary DESC
+
+//9. Last 7 Hired Employees
+select top(7) e.FirstName, e.LastName, e.HireDate
+from Employees as e
+order by e.HireDate DESC
+
+//10. Increase Salaries
+update Employees
+set Salary = Salary * 1.12
+WHERE DepartmentID IN (1,2,4,11)
+
+select Salary from Employees
+
+//11. Employee Address
+SELECT TOP(5) e.EmployeeID, e.JobTitle, e.AddressID, a.AddressText FROM Employees AS e
+join Addresses AS a
+ON e.AddressID = a.AddressID
+ORDER BY e.AddressID;
+
+//12. Addresses with Towns
+SELECT TOP(50) e.FirstName, e.LastName, t.Name, a.AddressText FROM Employees AS e
+join Addresses AS a
+ON e.AddressID = a.AddressID
+JOIN Towns AS t
+ON a.TownID= t.TownID
+ORDER BY e.FirstName, e.LastName;
+
+//13. Sales Employees
+SELECT e.EmployeeID, e.FirstName, e.LastName, d.Name FROM Employees AS e
+join Departments as d
+ON e.DepartmentID = d.DepartmentID
+WHERE d.Name = 'Sales'
+ORDER BY e.EmployeeID
+
+//14. Employee Departments
+SELECT TOP(5) e.EmployeeID, e.FirstName, e.Salary, d.Name FROM Employees AS e
+join Departments as d
+ON e.DepartmentID = d.DepartmentID
+WHERE e.Salary > 15000
+ORDER BY e.DepartmentID 
+

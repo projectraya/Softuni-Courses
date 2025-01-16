@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "rm.Trie/1.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/rm.Trie.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/rm.Trie.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rm.Trie/1.6.0": {
+      "sha512": "k7/UzjfAJuVPTgBxKymZ6olFDkF5Aykk9VVtwILnd7z7Z5U5W0qHbH3vDjs6RyBrUnm4mIJOCYK0XnyPTyYWyg==",
+      "type": "package",
+      "path": "rm.trie/1.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "lib/netstandard2.0/rm.Trie.dll",
+        "lib/netstandard2.0/rm.Trie.pdb",
+        "lib/netstandard2.0/rm.Trie.xml",
+        "lib/netstandard2.1/rm.Trie.dll",
+        "lib/netstandard2.1/rm.Trie.pdb",
+        "lib/netstandard2.1/rm.Trie.xml",
+        "rm.trie.1.6.0.nupkg.sha512",
+        "rm.trie.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "rm.Trie >= 1.6.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rmink\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rmink\\source\\repos\\Intro-Data-Structures-Ex\\Intro-Data-Structures-Ex-02\\Intro-Data-Structures-Ex-02.csproj",
+      "projectName": "Intro-Data-Structures-Ex-02",
+      "projectPath": "C:\\Users\\rmink\\source\\repos\\Intro-Data-Structures-Ex\\Intro-Data-Structures-Ex-02\\Intro-Data-Structures-Ex-02.csproj",
+      "packagesPath": "C:\\Users\\rmink\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rmink\\source\\repos\\Intro-Data-Structures-Ex\\Intro-Data-Structures-Ex-02\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rmink\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "rm.Trie": {
+            "target": "Package",
+            "version": "[1.6.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

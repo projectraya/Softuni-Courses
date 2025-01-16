@@ -1,0 +1,17 @@
+C:\Users\rmink\source\repos\Intro-Data-Structures\Intro-Data-Structures\bin\Debug\net6.0\Linked Strings.exe
+C:\Users\rmink\source\repos\Intro-Data-Structures\Intro-Data-Structures\bin\Debug\net6.0\Linked Strings.deps.json
+C:\Users\rmink\source\repos\Intro-Data-Structures\Intro-Data-Structures\bin\Debug\net6.0\Linked Strings.runtimeconfig.json
+C:\Users\rmink\source\repos\Intro-Data-Structures\Intro-Data-Structures\bin\Debug\net6.0\Linked Strings.dll
+C:\Users\rmink\source\repos\Intro-Data-Structures\Intro-Data-Structures\bin\Debug\net6.0\Linked Strings.pdb
+C:\Users\rmink\source\repos\Intro-Data-Structures\Intro-Data-Structures\bin\Debug\net6.0\Wintellect.PowerCollections.dll
+C:\Users\rmink\source\repos\Intro-Data-Structures\Intro-Data-Structures\obj\Debug\net6.0\Linked Strings.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\Intro-Data-Structures\Intro-Data-Structures\obj\Debug\net6.0\Linked Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Intro-Data-Structures\Intro-Data-Structures\obj\Debug\net6.0\Linked Strings.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Intro-Data-Structures\Intro-Data-Structures\obj\Debug\net6.0\Linked Strings.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Intro-Data-Structures\Intro-Data-Structures\obj\Debug\net6.0\Linked Strings.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Intro-Data-Structures\Intro-Data-Structures\obj\Debug\net6.0\Linked Strings.csproj.CopyComplete
+C:\Users\rmink\source\repos\Intro-Data-Structures\Intro-Data-Structures\obj\Debug\net6.0\Linked Strings.dll
+C:\Users\rmink\source\repos\Intro-Data-Structures\Intro-Data-Structures\obj\Debug\net6.0\refint\Linked Strings.dll
+C:\Users\rmink\source\repos\Intro-Data-Structures\Intro-Data-Structures\obj\Debug\net6.0\Linked Strings.pdb
+C:\Users\rmink\source\repos\Intro-Data-Structures\Intro-Data-Structures\obj\Debug\net6.0\Linked Strings.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Intro-Data-Structures\Intro-Data-Structures\obj\Debug\net6.0\ref\Linked Strings.dll

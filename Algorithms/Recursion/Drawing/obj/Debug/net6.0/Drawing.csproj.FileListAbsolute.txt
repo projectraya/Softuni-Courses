@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Recursion\Drawing\bin\Debug\net6.0\Drawing.exe
+C:\Users\rmink\source\repos\Recursion\Drawing\bin\Debug\net6.0\Drawing.deps.json
+C:\Users\rmink\source\repos\Recursion\Drawing\bin\Debug\net6.0\Drawing.runtimeconfig.json
+C:\Users\rmink\source\repos\Recursion\Drawing\bin\Debug\net6.0\Drawing.dll
+C:\Users\rmink\source\repos\Recursion\Drawing\bin\Debug\net6.0\Drawing.pdb
+C:\Users\rmink\source\repos\Recursion\Drawing\obj\Debug\net6.0\Drawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Recursion\Drawing\obj\Debug\net6.0\Drawing.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Recursion\Drawing\obj\Debug\net6.0\Drawing.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Recursion\Drawing\obj\Debug\net6.0\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Recursion\Drawing\obj\Debug\net6.0\Drawing.dll
+C:\Users\rmink\source\repos\Recursion\Drawing\obj\Debug\net6.0\refint\Drawing.dll
+C:\Users\rmink\source\repos\Recursion\Drawing\obj\Debug\net6.0\Drawing.pdb
+C:\Users\rmink\source\repos\Recursion\Drawing\obj\Debug\net6.0\Drawing.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Recursion\Drawing\obj\Debug\net6.0\ref\Drawing.dll

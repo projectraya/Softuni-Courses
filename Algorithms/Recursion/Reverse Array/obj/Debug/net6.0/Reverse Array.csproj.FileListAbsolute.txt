@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Recursion\Reverse Array\bin\Debug\net6.0\Reverse Array.exe
+C:\Users\rmink\source\repos\Recursion\Reverse Array\bin\Debug\net6.0\Reverse Array.deps.json
+C:\Users\rmink\source\repos\Recursion\Reverse Array\bin\Debug\net6.0\Reverse Array.runtimeconfig.json
+C:\Users\rmink\source\repos\Recursion\Reverse Array\bin\Debug\net6.0\Reverse Array.dll
+C:\Users\rmink\source\repos\Recursion\Reverse Array\bin\Debug\net6.0\Reverse Array.pdb
+C:\Users\rmink\source\repos\Recursion\Reverse Array\obj\Debug\net6.0\Reverse Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Recursion\Reverse Array\obj\Debug\net6.0\Reverse Array.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Recursion\Reverse Array\obj\Debug\net6.0\Reverse Array.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Recursion\Reverse Array\obj\Debug\net6.0\Reverse Array.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Recursion\Reverse Array\obj\Debug\net6.0\Reverse Array.dll
+C:\Users\rmink\source\repos\Recursion\Reverse Array\obj\Debug\net6.0\refint\Reverse Array.dll
+C:\Users\rmink\source\repos\Recursion\Reverse Array\obj\Debug\net6.0\Reverse Array.pdb
+C:\Users\rmink\source\repos\Recursion\Reverse Array\obj\Debug\net6.0\Reverse Array.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Recursion\Reverse Array\obj\Debug\net6.0\ref\Reverse Array.dll

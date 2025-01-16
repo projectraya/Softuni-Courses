@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Recursion\Recursive Factorial\bin\Debug\net6.0\Recursive Factorial.exe
+C:\Users\rmink\source\repos\Recursion\Recursive Factorial\bin\Debug\net6.0\Recursive Factorial.deps.json
+C:\Users\rmink\source\repos\Recursion\Recursive Factorial\bin\Debug\net6.0\Recursive Factorial.runtimeconfig.json
+C:\Users\rmink\source\repos\Recursion\Recursive Factorial\bin\Debug\net6.0\Recursive Factorial.dll
+C:\Users\rmink\source\repos\Recursion\Recursive Factorial\bin\Debug\net6.0\Recursive Factorial.pdb
+C:\Users\rmink\source\repos\Recursion\Recursive Factorial\obj\Debug\net6.0\Recursive Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Recursion\Recursive Factorial\obj\Debug\net6.0\Recursive Factorial.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Recursion\Recursive Factorial\obj\Debug\net6.0\Recursive Factorial.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Recursion\Recursive Factorial\obj\Debug\net6.0\Recursive Factorial.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Recursion\Recursive Factorial\obj\Debug\net6.0\Recursive Factorial.dll
+C:\Users\rmink\source\repos\Recursion\Recursive Factorial\obj\Debug\net6.0\refint\Recursive Factorial.dll
+C:\Users\rmink\source\repos\Recursion\Recursive Factorial\obj\Debug\net6.0\Recursive Factorial.pdb
+C:\Users\rmink\source\repos\Recursion\Recursive Factorial\obj\Debug\net6.0\Recursive Factorial.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Recursion\Recursive Factorial\obj\Debug\net6.0\ref\Recursive Factorial.dll

@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Algorithms-Final-Exam-Preparation\Algorithms-Final-Exam-Preparation\bin\Debug\net6.0\Number Sorter.exe
+C:\Users\rmink\source\repos\Algorithms-Final-Exam-Preparation\Algorithms-Final-Exam-Preparation\bin\Debug\net6.0\Number Sorter.deps.json
+C:\Users\rmink\source\repos\Algorithms-Final-Exam-Preparation\Algorithms-Final-Exam-Preparation\bin\Debug\net6.0\Number Sorter.runtimeconfig.json
+C:\Users\rmink\source\repos\Algorithms-Final-Exam-Preparation\Algorithms-Final-Exam-Preparation\bin\Debug\net6.0\Number Sorter.dll
+C:\Users\rmink\source\repos\Algorithms-Final-Exam-Preparation\Algorithms-Final-Exam-Preparation\bin\Debug\net6.0\Number Sorter.pdb
+C:\Users\rmink\source\repos\Algorithms-Final-Exam-Preparation\Algorithms-Final-Exam-Preparation\obj\Debug\net6.0\Number Sorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Algorithms-Final-Exam-Preparation\Algorithms-Final-Exam-Preparation\obj\Debug\net6.0\Number Sorter.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Algorithms-Final-Exam-Preparation\Algorithms-Final-Exam-Preparation\obj\Debug\net6.0\Number Sorter.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Algorithms-Final-Exam-Preparation\Algorithms-Final-Exam-Preparation\obj\Debug\net6.0\Number Sorter.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Algorithms-Final-Exam-Preparation\Algorithms-Final-Exam-Preparation\obj\Debug\net6.0\Number Sorter.dll
+C:\Users\rmink\source\repos\Algorithms-Final-Exam-Preparation\Algorithms-Final-Exam-Preparation\obj\Debug\net6.0\refint\Number Sorter.dll
+C:\Users\rmink\source\repos\Algorithms-Final-Exam-Preparation\Algorithms-Final-Exam-Preparation\obj\Debug\net6.0\Number Sorter.pdb
+C:\Users\rmink\source\repos\Algorithms-Final-Exam-Preparation\Algorithms-Final-Exam-Preparation\obj\Debug\net6.0\Number Sorter.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Algorithms-Final-Exam-Preparation\Algorithms-Final-Exam-Preparation\obj\Debug\net6.0\ref\Number Sorter.dll

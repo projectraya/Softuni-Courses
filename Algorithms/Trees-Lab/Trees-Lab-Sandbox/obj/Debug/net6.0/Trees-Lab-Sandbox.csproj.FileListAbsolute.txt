@@ -1,0 +1,17 @@
+C:\Users\rmink\source\repos\Trees-Lab\Trees-Lab-Sandbox\bin\Debug\net6.0\Trees-Lab-Sandbox.exe
+C:\Users\rmink\source\repos\Trees-Lab\Trees-Lab-Sandbox\bin\Debug\net6.0\Trees-Lab-Sandbox.deps.json
+C:\Users\rmink\source\repos\Trees-Lab\Trees-Lab-Sandbox\bin\Debug\net6.0\Trees-Lab-Sandbox.runtimeconfig.json
+C:\Users\rmink\source\repos\Trees-Lab\Trees-Lab-Sandbox\bin\Debug\net6.0\Trees-Lab-Sandbox.dll
+C:\Users\rmink\source\repos\Trees-Lab\Trees-Lab-Sandbox\bin\Debug\net6.0\Trees-Lab-Sandbox.pdb
+C:\Users\rmink\source\repos\Trees-Lab\Trees-Lab-Sandbox\bin\Debug\net6.0\SimpleTreeNode.dll
+C:\Users\rmink\source\repos\Trees-Lab\Trees-Lab-Sandbox\obj\Debug\net6.0\Trees-Lab-Sandbox.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\Trees-Lab\Trees-Lab-Sandbox\obj\Debug\net6.0\Trees-Lab-Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Trees-Lab\Trees-Lab-Sandbox\obj\Debug\net6.0\Trees-Lab-Sandbox.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Trees-Lab\Trees-Lab-Sandbox\obj\Debug\net6.0\Trees-Lab-Sandbox.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Trees-Lab\Trees-Lab-Sandbox\obj\Debug\net6.0\Trees-Lab-Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Trees-Lab\Trees-Lab-Sandbox\obj\Debug\net6.0\Trees-Lab-Sandbox.csproj.CopyComplete
+C:\Users\rmink\source\repos\Trees-Lab\Trees-Lab-Sandbox\obj\Debug\net6.0\Trees-Lab-Sandbox.dll
+C:\Users\rmink\source\repos\Trees-Lab\Trees-Lab-Sandbox\obj\Debug\net6.0\refint\Trees-Lab-Sandbox.dll
+C:\Users\rmink\source\repos\Trees-Lab\Trees-Lab-Sandbox\obj\Debug\net6.0\Trees-Lab-Sandbox.pdb
+C:\Users\rmink\source\repos\Trees-Lab\Trees-Lab-Sandbox\obj\Debug\net6.0\Trees-Lab-Sandbox.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Trees-Lab\Trees-Lab-Sandbox\obj\Debug\net6.0\ref\Trees-Lab-Sandbox.dll

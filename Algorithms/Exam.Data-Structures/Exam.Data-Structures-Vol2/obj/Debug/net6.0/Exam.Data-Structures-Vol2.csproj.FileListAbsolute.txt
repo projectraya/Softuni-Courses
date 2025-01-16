@@ -1,0 +1,17 @@
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures-Vol2\bin\Debug\net6.0\Exam.Data-Structures-Vol2.exe
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures-Vol2\bin\Debug\net6.0\Exam.Data-Structures-Vol2.deps.json
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures-Vol2\bin\Debug\net6.0\Exam.Data-Structures-Vol2.runtimeconfig.json
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures-Vol2\bin\Debug\net6.0\Exam.Data-Structures-Vol2.dll
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures-Vol2\bin\Debug\net6.0\Exam.Data-Structures-Vol2.pdb
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures-Vol2\bin\Debug\net6.0\SimpleTreeNode.dll
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures-Vol2\obj\Debug\net6.0\Exam.Data-Structures-Vol2.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures-Vol2\obj\Debug\net6.0\Exam.Data-Structures-Vol2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures-Vol2\obj\Debug\net6.0\Exam.Data-Structures-Vol2.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures-Vol2\obj\Debug\net6.0\Exam.Data-Structures-Vol2.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures-Vol2\obj\Debug\net6.0\Exam.Data-Structures-Vol2.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures-Vol2\obj\Debug\net6.0\Exam.Data-Structures-Vol2.csproj.CopyComplete
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures-Vol2\obj\Debug\net6.0\Exam.Data-Structures-Vol2.dll
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures-Vol2\obj\Debug\net6.0\refint\Exam.Data-Structures-Vol2.dll
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures-Vol2\obj\Debug\net6.0\Exam.Data-Structures-Vol2.pdb
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures-Vol2\obj\Debug\net6.0\Exam.Data-Structures-Vol2.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures-Vol2\obj\Debug\net6.0\ref\Exam.Data-Structures-Vol2.dll

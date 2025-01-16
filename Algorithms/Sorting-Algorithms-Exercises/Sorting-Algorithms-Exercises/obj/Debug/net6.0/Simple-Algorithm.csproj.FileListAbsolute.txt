@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Sorting-Algorithms-Exercises\bin\Debug\net6.0\Simple-Algorithm.exe
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Sorting-Algorithms-Exercises\bin\Debug\net6.0\Simple-Algorithm.deps.json
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Sorting-Algorithms-Exercises\bin\Debug\net6.0\Simple-Algorithm.runtimeconfig.json
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Sorting-Algorithms-Exercises\bin\Debug\net6.0\Simple-Algorithm.dll
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Sorting-Algorithms-Exercises\bin\Debug\net6.0\Simple-Algorithm.pdb
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Sorting-Algorithms-Exercises\obj\Debug\net6.0\Simple-Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Sorting-Algorithms-Exercises\obj\Debug\net6.0\Simple-Algorithm.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Sorting-Algorithms-Exercises\obj\Debug\net6.0\Simple-Algorithm.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Sorting-Algorithms-Exercises\obj\Debug\net6.0\Simple-Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Sorting-Algorithms-Exercises\obj\Debug\net6.0\Simple-Algorithm.dll
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Sorting-Algorithms-Exercises\obj\Debug\net6.0\refint\Simple-Algorithm.dll
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Sorting-Algorithms-Exercises\obj\Debug\net6.0\Simple-Algorithm.pdb
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Sorting-Algorithms-Exercises\obj\Debug\net6.0\Simple-Algorithm.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Sorting-Algorithms-Exercises\obj\Debug\net6.0\ref\Simple-Algorithm.dll

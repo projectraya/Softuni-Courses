@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Quicksort\bin\Debug\net6.0\Quicksort.exe
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Quicksort\bin\Debug\net6.0\Quicksort.deps.json
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Quicksort\bin\Debug\net6.0\Quicksort.runtimeconfig.json
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Quicksort\bin\Debug\net6.0\Quicksort.dll
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Quicksort\bin\Debug\net6.0\Quicksort.pdb
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Quicksort\obj\Debug\net6.0\Quicksort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Quicksort\obj\Debug\net6.0\Quicksort.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Quicksort\obj\Debug\net6.0\Quicksort.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Quicksort\obj\Debug\net6.0\Quicksort.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Quicksort\obj\Debug\net6.0\Quicksort.dll
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Quicksort\obj\Debug\net6.0\refint\Quicksort.dll
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Quicksort\obj\Debug\net6.0\Quicksort.pdb
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Quicksort\obj\Debug\net6.0\Quicksort.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\Quicksort\obj\Debug\net6.0\ref\Quicksort.dll

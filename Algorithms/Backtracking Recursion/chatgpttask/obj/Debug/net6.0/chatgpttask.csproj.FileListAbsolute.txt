@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Backtracking Recursion\chatgpttask\bin\Debug\net6.0\chatgpttask.exe
+C:\Users\rmink\source\repos\Backtracking Recursion\chatgpttask\bin\Debug\net6.0\chatgpttask.deps.json
+C:\Users\rmink\source\repos\Backtracking Recursion\chatgpttask\bin\Debug\net6.0\chatgpttask.runtimeconfig.json
+C:\Users\rmink\source\repos\Backtracking Recursion\chatgpttask\bin\Debug\net6.0\chatgpttask.dll
+C:\Users\rmink\source\repos\Backtracking Recursion\chatgpttask\bin\Debug\net6.0\chatgpttask.pdb
+C:\Users\rmink\source\repos\Backtracking Recursion\chatgpttask\obj\Debug\net6.0\chatgpttask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Backtracking Recursion\chatgpttask\obj\Debug\net6.0\chatgpttask.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Backtracking Recursion\chatgpttask\obj\Debug\net6.0\chatgpttask.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Backtracking Recursion\chatgpttask\obj\Debug\net6.0\chatgpttask.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Backtracking Recursion\chatgpttask\obj\Debug\net6.0\chatgpttask.dll
+C:\Users\rmink\source\repos\Backtracking Recursion\chatgpttask\obj\Debug\net6.0\refint\chatgpttask.dll
+C:\Users\rmink\source\repos\Backtracking Recursion\chatgpttask\obj\Debug\net6.0\chatgpttask.pdb
+C:\Users\rmink\source\repos\Backtracking Recursion\chatgpttask\obj\Debug\net6.0\chatgpttask.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Backtracking Recursion\chatgpttask\obj\Debug\net6.0\ref\chatgpttask.dll

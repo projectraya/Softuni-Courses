@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Intro-Data-Structures-Ex-02/1.0.0": {
+        "dependencies": {
+          "rm.Trie": "1.6.0"
+        },
+        "runtime": {
+          "Intro-Data-Structures-Ex-02.dll": {}
+        }
+      },
+      "rm.Trie/1.6.0": {
+        "runtime": {
+          "lib/netstandard2.1/rm.Trie.dll": {
+            "assemblyVersion": "1.6.0.0",
+            "fileVersion": "1.6.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Intro-Data-Structures-Ex-02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "rm.Trie/1.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k7/UzjfAJuVPTgBxKymZ6olFDkF5Aykk9VVtwILnd7z7Z5U5W0qHbH3vDjs6RyBrUnm4mIJOCYK0XnyPTyYWyg==",
+      "path": "rm.trie/1.6.0",
+      "hashPath": "rm.trie.1.6.0.nupkg.sha512"
+    }
+  }
+}

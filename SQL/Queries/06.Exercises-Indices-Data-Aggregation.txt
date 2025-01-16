@@ -1,0 +1,39 @@
+01. Records’ Count
+SELECT COUNT(Id) as [Count] from WizzardDeposits
+
+02. Longest Magic Wand
+SELECT MAX(MagicWandSize) as mws
+from WizzardDeposits
+
+03. Longest Magic Wand per Deposit Groups
+SELECT DepositGroup, MAX(MagicWandSize) as LongestMagicWand
+from WizzardDeposits as wd
+GROUP BY wd.DepositGroup
+
+04. Smallest Deposit Group per Magic Wand Size
+SELECT TOP(2) wd.DepositGroup
+FROM WizzardDeposits as wd
+GROUP BY wd.DepositGroup
+ORDER BY AVG(wd.MagicWandSize)
+
+05. Deposits Sum
+SELECT DepositGroup,
+	SUM(DepositAmount) as TotalSum
+FROM WizzardDeposits
+GROUP BY DepositGroup
+
+06. Deposits Sum for Ollivander Family
+SELECT DepositGroup,
+	SUM(DepositAmount) as TotalSum
+FROM WizzardDeposits
+GROUP BY DepositGroup, MagicWandCreator
+HAVING MagicWandCreator = 'Ollivander family'
+
+07. Deposits Filter
+SELECT DepositGroup,
+	SUM(DepositAmount) as TotalSum
+FROM WizzardDeposits
+GROUP BY DepositGroup, MagicWandCreator
+HAVING MagicWandCreator = 'Ollivander family' AND SUM(DepositAmount) < 150000
+ORDER BY SUM(DepositAmount) DESC
+

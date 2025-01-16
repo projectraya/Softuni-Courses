@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\ChatBasedChallenge\ChatBasedChallenge\bin\Debug\net6.0\ChatBasedChallenge.exe
+C:\Users\rmink\source\repos\ChatBasedChallenge\ChatBasedChallenge\bin\Debug\net6.0\ChatBasedChallenge.deps.json
+C:\Users\rmink\source\repos\ChatBasedChallenge\ChatBasedChallenge\bin\Debug\net6.0\ChatBasedChallenge.runtimeconfig.json
+C:\Users\rmink\source\repos\ChatBasedChallenge\ChatBasedChallenge\bin\Debug\net6.0\ChatBasedChallenge.dll
+C:\Users\rmink\source\repos\ChatBasedChallenge\ChatBasedChallenge\bin\Debug\net6.0\ChatBasedChallenge.pdb
+C:\Users\rmink\source\repos\ChatBasedChallenge\ChatBasedChallenge\obj\Debug\net6.0\ChatBasedChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\ChatBasedChallenge\ChatBasedChallenge\obj\Debug\net6.0\ChatBasedChallenge.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\ChatBasedChallenge\ChatBasedChallenge\obj\Debug\net6.0\ChatBasedChallenge.AssemblyInfo.cs
+C:\Users\rmink\source\repos\ChatBasedChallenge\ChatBasedChallenge\obj\Debug\net6.0\ChatBasedChallenge.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\ChatBasedChallenge\ChatBasedChallenge\obj\Debug\net6.0\ChatBasedChallenge.dll
+C:\Users\rmink\source\repos\ChatBasedChallenge\ChatBasedChallenge\obj\Debug\net6.0\refint\ChatBasedChallenge.dll
+C:\Users\rmink\source\repos\ChatBasedChallenge\ChatBasedChallenge\obj\Debug\net6.0\ChatBasedChallenge.pdb
+C:\Users\rmink\source\repos\ChatBasedChallenge\ChatBasedChallenge\obj\Debug\net6.0\ChatBasedChallenge.genruntimeconfig.cache
+C:\Users\rmink\source\repos\ChatBasedChallenge\ChatBasedChallenge\obj\Debug\net6.0\ref\ChatBasedChallenge.dll

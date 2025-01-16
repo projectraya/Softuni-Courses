@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z7mJXTuAzv+L9mbukgIzssWEe+QvAPQGpDIi+zN8ikPIzseoUQIHe5fZ26CP8HeF4Y8BJ/1LSiLvWv18/rcbGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rmink\\source\\repos\\Trees-Lab\\Trees-Lab-Sandbox\\Trees-Lab-Sandbox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmink\\.nuget\\packages\\simpletreenode\\1.0.0\\simpletreenode.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

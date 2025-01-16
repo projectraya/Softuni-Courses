@@ -1,0 +1,17 @@
+C:\Users\rmink\source\repos\Intro-Data-Structures\Bag of Words\bin\Debug\net6.0\Bag of Words.exe
+C:\Users\rmink\source\repos\Intro-Data-Structures\Bag of Words\bin\Debug\net6.0\Bag of Words.deps.json
+C:\Users\rmink\source\repos\Intro-Data-Structures\Bag of Words\bin\Debug\net6.0\Bag of Words.runtimeconfig.json
+C:\Users\rmink\source\repos\Intro-Data-Structures\Bag of Words\bin\Debug\net6.0\Bag of Words.dll
+C:\Users\rmink\source\repos\Intro-Data-Structures\Bag of Words\bin\Debug\net6.0\Bag of Words.pdb
+C:\Users\rmink\source\repos\Intro-Data-Structures\Bag of Words\bin\Debug\net6.0\Wintellect.PowerCollections.dll
+C:\Users\rmink\source\repos\Intro-Data-Structures\Bag of Words\obj\Debug\net6.0\Bag of Words.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\Intro-Data-Structures\Bag of Words\obj\Debug\net6.0\Bag of Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Intro-Data-Structures\Bag of Words\obj\Debug\net6.0\Bag of Words.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Intro-Data-Structures\Bag of Words\obj\Debug\net6.0\Bag of Words.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Intro-Data-Structures\Bag of Words\obj\Debug\net6.0\Bag of Words.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Intro-Data-Structures\Bag of Words\obj\Debug\net6.0\Bag of Words.csproj.CopyComplete
+C:\Users\rmink\source\repos\Intro-Data-Structures\Bag of Words\obj\Debug\net6.0\Bag of Words.dll
+C:\Users\rmink\source\repos\Intro-Data-Structures\Bag of Words\obj\Debug\net6.0\refint\Bag of Words.dll
+C:\Users\rmink\source\repos\Intro-Data-Structures\Bag of Words\obj\Debug\net6.0\Bag of Words.pdb
+C:\Users\rmink\source\repos\Intro-Data-Structures\Bag of Words\obj\Debug\net6.0\Bag of Words.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Intro-Data-Structures\Bag of Words\obj\Debug\net6.0\ref\Bag of Words.dll

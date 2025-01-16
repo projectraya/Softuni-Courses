@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X3coCuwLwyAlNkdmjxBEHImnhvFyZ0kEo6ACtW8abWFCZdrveZaGjpHypya7XyI4Z6BA+N3vwMUpWgBMeNeOHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rmink\\source\\repos\\Intro-Data-Structures-Ex\\Intro-Data-Structures-Ex-02\\Intro-Data-Structures-Ex-02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmink\\.nuget\\packages\\rm.trie\\1.6.0\\rm.trie.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

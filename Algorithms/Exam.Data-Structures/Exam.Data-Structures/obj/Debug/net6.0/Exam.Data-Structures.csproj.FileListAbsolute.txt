@@ -1,0 +1,17 @@
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures\bin\Debug\net6.0\Exam.Data-Structures.exe
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures\bin\Debug\net6.0\Exam.Data-Structures.deps.json
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures\bin\Debug\net6.0\Exam.Data-Structures.runtimeconfig.json
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures\bin\Debug\net6.0\Exam.Data-Structures.dll
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures\bin\Debug\net6.0\Exam.Data-Structures.pdb
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures\bin\Debug\net6.0\Wintellect.PowerCollections.dll
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures\obj\Debug\net6.0\Exam.Data-Structures.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures\obj\Debug\net6.0\Exam.Data-Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures\obj\Debug\net6.0\Exam.Data-Structures.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures\obj\Debug\net6.0\Exam.Data-Structures.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures\obj\Debug\net6.0\Exam.Data-Structures.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures\obj\Debug\net6.0\Exam.Data-Structures.csproj.CopyComplete
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures\obj\Debug\net6.0\Exam.Data-Structures.dll
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures\obj\Debug\net6.0\refint\Exam.Data-Structures.dll
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures\obj\Debug\net6.0\Exam.Data-Structures.pdb
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures\obj\Debug\net6.0\Exam.Data-Structures.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Exam.Data-Structures\Exam.Data-Structures\obj\Debug\net6.0\ref\Exam.Data-Structures.dll

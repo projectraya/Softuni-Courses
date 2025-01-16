@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Backtracking Recursion\2.Combinations-with-repetition\bin\Debug\net6.0\2.Combinations-with-repetition.exe
+C:\Users\rmink\source\repos\Backtracking Recursion\2.Combinations-with-repetition\bin\Debug\net6.0\2.Combinations-with-repetition.deps.json
+C:\Users\rmink\source\repos\Backtracking Recursion\2.Combinations-with-repetition\bin\Debug\net6.0\2.Combinations-with-repetition.runtimeconfig.json
+C:\Users\rmink\source\repos\Backtracking Recursion\2.Combinations-with-repetition\bin\Debug\net6.0\2.Combinations-with-repetition.dll
+C:\Users\rmink\source\repos\Backtracking Recursion\2.Combinations-with-repetition\bin\Debug\net6.0\2.Combinations-with-repetition.pdb
+C:\Users\rmink\source\repos\Backtracking Recursion\2.Combinations-with-repetition\obj\Debug\net6.0\2.Combinations-with-repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Backtracking Recursion\2.Combinations-with-repetition\obj\Debug\net6.0\2.Combinations-with-repetition.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Backtracking Recursion\2.Combinations-with-repetition\obj\Debug\net6.0\2.Combinations-with-repetition.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Backtracking Recursion\2.Combinations-with-repetition\obj\Debug\net6.0\2.Combinations-with-repetition.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Backtracking Recursion\2.Combinations-with-repetition\obj\Debug\net6.0\2.Combinations-with-repetition.dll
+C:\Users\rmink\source\repos\Backtracking Recursion\2.Combinations-with-repetition\obj\Debug\net6.0\refint\2.Combinations-with-repetition.dll
+C:\Users\rmink\source\repos\Backtracking Recursion\2.Combinations-with-repetition\obj\Debug\net6.0\2.Combinations-with-repetition.pdb
+C:\Users\rmink\source\repos\Backtracking Recursion\2.Combinations-with-repetition\obj\Debug\net6.0\2.Combinations-with-repetition.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Backtracking Recursion\2.Combinations-with-repetition\obj\Debug\net6.0\ref\2.Combinations-with-repetition.dll

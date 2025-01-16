@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Recursion-Exam\Recursion-Exam\bin\Debug\net6.0\Recursion-Exam.exe
+C:\Users\rmink\source\repos\Recursion-Exam\Recursion-Exam\bin\Debug\net6.0\Recursion-Exam.deps.json
+C:\Users\rmink\source\repos\Recursion-Exam\Recursion-Exam\bin\Debug\net6.0\Recursion-Exam.runtimeconfig.json
+C:\Users\rmink\source\repos\Recursion-Exam\Recursion-Exam\bin\Debug\net6.0\Recursion-Exam.dll
+C:\Users\rmink\source\repos\Recursion-Exam\Recursion-Exam\bin\Debug\net6.0\Recursion-Exam.pdb
+C:\Users\rmink\source\repos\Recursion-Exam\Recursion-Exam\obj\Debug\net6.0\Recursion-Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Recursion-Exam\Recursion-Exam\obj\Debug\net6.0\Recursion-Exam.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Recursion-Exam\Recursion-Exam\obj\Debug\net6.0\Recursion-Exam.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Recursion-Exam\Recursion-Exam\obj\Debug\net6.0\Recursion-Exam.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Recursion-Exam\Recursion-Exam\obj\Debug\net6.0\Recursion-Exam.dll
+C:\Users\rmink\source\repos\Recursion-Exam\Recursion-Exam\obj\Debug\net6.0\refint\Recursion-Exam.dll
+C:\Users\rmink\source\repos\Recursion-Exam\Recursion-Exam\obj\Debug\net6.0\Recursion-Exam.pdb
+C:\Users\rmink\source\repos\Recursion-Exam\Recursion-Exam\obj\Debug\net6.0\Recursion-Exam.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Recursion-Exam\Recursion-Exam\obj\Debug\net6.0\ref\Recursion-Exam.dll

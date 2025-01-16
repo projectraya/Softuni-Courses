@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Backtracking Recursion\secondTask\bin\Debug\net6.0\secondTask.exe
+C:\Users\rmink\source\repos\Backtracking Recursion\secondTask\bin\Debug\net6.0\secondTask.deps.json
+C:\Users\rmink\source\repos\Backtracking Recursion\secondTask\bin\Debug\net6.0\secondTask.runtimeconfig.json
+C:\Users\rmink\source\repos\Backtracking Recursion\secondTask\bin\Debug\net6.0\secondTask.dll
+C:\Users\rmink\source\repos\Backtracking Recursion\secondTask\bin\Debug\net6.0\secondTask.pdb
+C:\Users\rmink\source\repos\Backtracking Recursion\secondTask\obj\Debug\net6.0\secondTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Backtracking Recursion\secondTask\obj\Debug\net6.0\secondTask.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Backtracking Recursion\secondTask\obj\Debug\net6.0\secondTask.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Backtracking Recursion\secondTask\obj\Debug\net6.0\secondTask.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Backtracking Recursion\secondTask\obj\Debug\net6.0\secondTask.dll
+C:\Users\rmink\source\repos\Backtracking Recursion\secondTask\obj\Debug\net6.0\refint\secondTask.dll
+C:\Users\rmink\source\repos\Backtracking Recursion\secondTask\obj\Debug\net6.0\secondTask.pdb
+C:\Users\rmink\source\repos\Backtracking Recursion\secondTask\obj\Debug\net6.0\secondTask.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Backtracking Recursion\secondTask\obj\Debug\net6.0\ref\secondTask.dll

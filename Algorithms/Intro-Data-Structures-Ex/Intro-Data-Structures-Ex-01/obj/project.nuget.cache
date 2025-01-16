@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SzWuJpUfkmefe0SPz4JXSmiobPubop4UNNtPC8/oPe6GjjmfK8nMBDv1d+j5dmw320qg+yew1fR7ht2iCyeXdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rmink\\source\\repos\\Intro-Data-Structures-Ex\\Intro-Data-Structures-Ex-01\\Intro-Data-Structures-Ex-01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmink\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

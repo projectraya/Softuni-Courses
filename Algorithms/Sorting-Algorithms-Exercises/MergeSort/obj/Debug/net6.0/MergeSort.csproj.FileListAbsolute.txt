@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\MergeSort\bin\Debug\net6.0\MergeSort.exe
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\MergeSort\bin\Debug\net6.0\MergeSort.deps.json
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\MergeSort\bin\Debug\net6.0\MergeSort.runtimeconfig.json
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\MergeSort\bin\Debug\net6.0\MergeSort.dll
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\MergeSort\bin\Debug\net6.0\MergeSort.pdb
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\MergeSort\obj\Debug\net6.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\MergeSort\obj\Debug\net6.0\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\MergeSort\obj\Debug\net6.0\MergeSort.dll
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\MergeSort\obj\Debug\net6.0\refint\MergeSort.dll
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\MergeSort\obj\Debug\net6.0\MergeSort.pdb
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\MergeSort\obj\Debug\net6.0\MergeSort.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Sorting-Algorithms-Exercises\MergeSort\obj\Debug\net6.0\ref\MergeSort.dll

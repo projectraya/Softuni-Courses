@@ -1,0 +1,49 @@
+1. Display All Information about the GameTypes
+
+select * from GameTypes
+
+2. Names of All Items by Price in Range
+
+SELECT Name, Price, MinLevel FROM Items
+WHERE Price BETWEEN 790 AND 800;
+
+3. All Games without Duration
+
+SELECT Name, IsFinished FROM Games
+WHERE Duration IS NULL
+
+4. 5 Best Items by Price
+
+SELECT TOP(5) Name, Price FROM Items
+REVERSE
+ORDER BY Price DESC
+
+5. Increase Price
+
+UPDATE Items
+SET Price = Price + Price * 0.1
+WHERE MinLevel IN (24, 41, 8, 18)
+SELECT Price from Items
+
+6. Game and Type
+
+SELECT TOP(50) g.Name, g.Start, gt.Name
+FROM Games as g
+JOIN GameTypes as gt
+ON gt.Id = g.GameTypeId
+ORDER BY Duration
+
+7. Items with Price Type Speed and Luck
+
+SELECT i.Name as [Item Name], i.Price, it.Name as [Item Type], s.Speed, s.Luck
+FROM Items as i
+
+JOIN ItemTypes as it
+ON i.ItemTypeId = it.Id
+
+JOIN [Statistics] as s
+ON i.StatisticId = s.Id
+
+WHERE i.MinLevel = 76
+ORDER BY s.Luck DESC
+

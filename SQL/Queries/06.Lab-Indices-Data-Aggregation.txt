@@ -1,0 +1,44 @@
+01. Departments Total Salaries
+SELECT e.DepartmentID,
+	SUM(e.Salary) as TotalSalary
+FROM Employees as e
+GROUP BY e.DepartmentID
+ORDER BY e.DepartmentID
+
+02. Count Salaries
+SELECT e.DepartmentID,
+	COUNT(e.Salary) as [SalaryCount]
+	from Employees as e
+GROUP BY e.DepartmentID
+
+03. Sum Salaries
+SELECT e.DepartmentID,
+	SUM(e.Salary) as TotalSalary
+	from Employees as e
+GROUP BY e.DepartmentID
+
+04. Max Salary
+SELECT e.DepartmentID,
+	MAX(e.Salary) as MaxSalary
+	from Employees as e
+GROUP BY e.DepartmentID
+
+05. Min Salary
+SELECT e.DepartmentID,
+	MIN(e.Salary) as MinSalary
+	from Employees as e
+GROUP BY e.DepartmentID
+
+06. Average Salary
+SELECT e.DepartmentID,
+	AVG(e.Salary) as AvgSalary
+	from Employees as e
+GROUP BY e.DepartmentID
+
+07. Salary More Than
+SELECT e.DepartmentID,
+	SUM(e.Salary) as TotalSalary
+	from Employees as e
+GROUP BY e.DepartmentID
+HAVING SUM(e.Salary) >= 150000
+

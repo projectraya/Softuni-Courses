@@ -1,0 +1,55 @@
+01. Theater
+
+CREATE TABLE Actor(
+Id INT PRIMARY KEY NOT NULL,
+Email VARCHAR(40) NOT NULL,
+Born DATETIME NOT NULL,
+Number VARCHAR(10) NOT NULL
+
+)
+
+CREATE TABLE Role(
+Id INT PRIMARY KEY NOT NULL,
+Name VARCHAR(60) NOT NULL,
+Play VARCHAR(100) NOT NULL,
+Author VARCHAR(160) NOT NULL
+)
+
+
+CREATE TABLE ActorRoles(
+ActorId INT NOT NULL,
+RoleId INT NOT NULL
+CONSTRAINT PK_ActorRoles
+PRIMARY KEY(ActorId, RoleId),
+
+CONSTRAINT PK_ActorRoles_Actors
+FOREIGN KEY(ActorId)
+REFERENCES Actor(Id),
+
+CONSTRAINT PK_ActorRoles_Roles
+FOREIGN KEY(RoleId)
+REFERENCES Role(Id)
+)
+
+02. Find Users
+
+SELECT FirstName, LastName FROM Users
+WHERE LastName LIKE '%ov%'
+
+
+03. Registration Condition
+
+CREATE VIEW v_UsersRegistrationAfter2014 AS
+SELECT FirstName, LastName FROM Users
+WHERE YEAR(RegistrationDate) > 2014
+
+
+04. Game Duration
+
+SELECT TOP(5) g.[Name] AS [Game Name], u.Username FROM Games AS g
+FULL JOIN UsersGames AS ug
+ON g.Id = ug.GameId
+FULL JOIN Users AS u
+ON ug.UserId = u.Id
+WHERE g.Duration = 5
+ORDER BY g.[Start]

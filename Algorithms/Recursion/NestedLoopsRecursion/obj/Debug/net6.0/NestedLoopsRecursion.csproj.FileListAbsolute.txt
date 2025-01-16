@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Recursion\NestedLoopsRecursion\bin\Debug\net6.0\NestedLoopsRecursion.exe
+C:\Users\rmink\source\repos\Recursion\NestedLoopsRecursion\bin\Debug\net6.0\NestedLoopsRecursion.deps.json
+C:\Users\rmink\source\repos\Recursion\NestedLoopsRecursion\bin\Debug\net6.0\NestedLoopsRecursion.runtimeconfig.json
+C:\Users\rmink\source\repos\Recursion\NestedLoopsRecursion\bin\Debug\net6.0\NestedLoopsRecursion.dll
+C:\Users\rmink\source\repos\Recursion\NestedLoopsRecursion\bin\Debug\net6.0\NestedLoopsRecursion.pdb
+C:\Users\rmink\source\repos\Recursion\NestedLoopsRecursion\obj\Debug\net6.0\NestedLoopsRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Recursion\NestedLoopsRecursion\obj\Debug\net6.0\NestedLoopsRecursion.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Recursion\NestedLoopsRecursion\obj\Debug\net6.0\NestedLoopsRecursion.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Recursion\NestedLoopsRecursion\obj\Debug\net6.0\NestedLoopsRecursion.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Recursion\NestedLoopsRecursion\obj\Debug\net6.0\NestedLoopsRecursion.dll
+C:\Users\rmink\source\repos\Recursion\NestedLoopsRecursion\obj\Debug\net6.0\refint\NestedLoopsRecursion.dll
+C:\Users\rmink\source\repos\Recursion\NestedLoopsRecursion\obj\Debug\net6.0\NestedLoopsRecursion.pdb
+C:\Users\rmink\source\repos\Recursion\NestedLoopsRecursion\obj\Debug\net6.0\NestedLoopsRecursion.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Recursion\NestedLoopsRecursion\obj\Debug\net6.0\ref\NestedLoopsRecursion.dll

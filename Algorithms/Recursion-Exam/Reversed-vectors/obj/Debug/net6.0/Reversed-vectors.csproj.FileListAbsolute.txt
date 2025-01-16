@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Recursion-Exam\Reversed-vectors\bin\Debug\net6.0\Reversed-vectors.exe
+C:\Users\rmink\source\repos\Recursion-Exam\Reversed-vectors\bin\Debug\net6.0\Reversed-vectors.deps.json
+C:\Users\rmink\source\repos\Recursion-Exam\Reversed-vectors\bin\Debug\net6.0\Reversed-vectors.runtimeconfig.json
+C:\Users\rmink\source\repos\Recursion-Exam\Reversed-vectors\bin\Debug\net6.0\Reversed-vectors.dll
+C:\Users\rmink\source\repos\Recursion-Exam\Reversed-vectors\bin\Debug\net6.0\Reversed-vectors.pdb
+C:\Users\rmink\source\repos\Recursion-Exam\Reversed-vectors\obj\Debug\net6.0\Reversed-vectors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Recursion-Exam\Reversed-vectors\obj\Debug\net6.0\Reversed-vectors.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Recursion-Exam\Reversed-vectors\obj\Debug\net6.0\Reversed-vectors.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Recursion-Exam\Reversed-vectors\obj\Debug\net6.0\Reversed-vectors.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Recursion-Exam\Reversed-vectors\obj\Debug\net6.0\Reversed-vectors.dll
+C:\Users\rmink\source\repos\Recursion-Exam\Reversed-vectors\obj\Debug\net6.0\refint\Reversed-vectors.dll
+C:\Users\rmink\source\repos\Recursion-Exam\Reversed-vectors\obj\Debug\net6.0\Reversed-vectors.pdb
+C:\Users\rmink\source\repos\Recursion-Exam\Reversed-vectors\obj\Debug\net6.0\Reversed-vectors.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Recursion-Exam\Reversed-vectors\obj\Debug\net6.0\ref\Reversed-vectors.dll

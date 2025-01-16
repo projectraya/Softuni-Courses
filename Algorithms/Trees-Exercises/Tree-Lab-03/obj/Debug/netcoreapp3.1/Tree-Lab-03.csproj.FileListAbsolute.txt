@@ -1,0 +1,13 @@
+C:\Users\rmink\source\repos\Trees-Exercises\Tree-Lab-03\bin\Debug\netcoreapp3.1\Tree-Lab-03.exe
+C:\Users\rmink\source\repos\Trees-Exercises\Tree-Lab-03\bin\Debug\netcoreapp3.1\Tree-Lab-03.deps.json
+C:\Users\rmink\source\repos\Trees-Exercises\Tree-Lab-03\bin\Debug\netcoreapp3.1\Tree-Lab-03.runtimeconfig.json
+C:\Users\rmink\source\repos\Trees-Exercises\Tree-Lab-03\bin\Debug\netcoreapp3.1\Tree-Lab-03.runtimeconfig.dev.json
+C:\Users\rmink\source\repos\Trees-Exercises\Tree-Lab-03\bin\Debug\netcoreapp3.1\Tree-Lab-03.dll
+C:\Users\rmink\source\repos\Trees-Exercises\Tree-Lab-03\bin\Debug\netcoreapp3.1\Tree-Lab-03.pdb
+C:\Users\rmink\source\repos\Trees-Exercises\Tree-Lab-03\obj\Debug\netcoreapp3.1\Tree-Lab-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Trees-Exercises\Tree-Lab-03\obj\Debug\netcoreapp3.1\Tree-Lab-03.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Trees-Exercises\Tree-Lab-03\obj\Debug\netcoreapp3.1\Tree-Lab-03.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Trees-Exercises\Tree-Lab-03\obj\Debug\netcoreapp3.1\Tree-Lab-03.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Trees-Exercises\Tree-Lab-03\obj\Debug\netcoreapp3.1\Tree-Lab-03.dll
+C:\Users\rmink\source\repos\Trees-Exercises\Tree-Lab-03\obj\Debug\netcoreapp3.1\Tree-Lab-03.pdb
+C:\Users\rmink\source\repos\Trees-Exercises\Tree-Lab-03\obj\Debug\netcoreapp3.1\Tree-Lab-03.genruntimeconfig.cache

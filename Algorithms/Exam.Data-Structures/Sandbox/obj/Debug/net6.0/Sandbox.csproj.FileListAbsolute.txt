@@ -1,0 +1,17 @@
+C:\Users\rmink\source\repos\Exam.Data-Structures\Sandbox\bin\Debug\net6.0\Sandbox.exe
+C:\Users\rmink\source\repos\Exam.Data-Structures\Sandbox\bin\Debug\net6.0\Sandbox.deps.json
+C:\Users\rmink\source\repos\Exam.Data-Structures\Sandbox\bin\Debug\net6.0\Sandbox.runtimeconfig.json
+C:\Users\rmink\source\repos\Exam.Data-Structures\Sandbox\bin\Debug\net6.0\Sandbox.dll
+C:\Users\rmink\source\repos\Exam.Data-Structures\Sandbox\bin\Debug\net6.0\Sandbox.pdb
+C:\Users\rmink\source\repos\Exam.Data-Structures\Sandbox\bin\Debug\net6.0\SimpleTreeNode.dll
+C:\Users\rmink\source\repos\Exam.Data-Structures\Sandbox\obj\Debug\net6.0\Sandbox.csproj.AssemblyReference.cache
+C:\Users\rmink\source\repos\Exam.Data-Structures\Sandbox\obj\Debug\net6.0\Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Exam.Data-Structures\Sandbox\obj\Debug\net6.0\Sandbox.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Exam.Data-Structures\Sandbox\obj\Debug\net6.0\Sandbox.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Exam.Data-Structures\Sandbox\obj\Debug\net6.0\Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Exam.Data-Structures\Sandbox\obj\Debug\net6.0\Sandbox.csproj.CopyComplete
+C:\Users\rmink\source\repos\Exam.Data-Structures\Sandbox\obj\Debug\net6.0\Sandbox.dll
+C:\Users\rmink\source\repos\Exam.Data-Structures\Sandbox\obj\Debug\net6.0\refint\Sandbox.dll
+C:\Users\rmink\source\repos\Exam.Data-Structures\Sandbox\obj\Debug\net6.0\Sandbox.pdb
+C:\Users\rmink\source\repos\Exam.Data-Structures\Sandbox\obj\Debug\net6.0\Sandbox.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Exam.Data-Structures\Sandbox\obj\Debug\net6.0\ref\Sandbox.dll
