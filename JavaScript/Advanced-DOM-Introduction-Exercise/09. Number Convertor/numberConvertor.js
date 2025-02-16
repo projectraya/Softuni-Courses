@@ -38,4 +38,5 @@ function convert(){
         console.log(result)
     }
     
+    document.querySelector('#result').value = result;
 }
