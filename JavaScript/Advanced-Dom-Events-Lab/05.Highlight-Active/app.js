@@ -11,11 +11,11 @@
             
         function highlight(event){
             
-            event.currentTarget.style.backgroundColor = '#999999';
+            event.currentTarget.classList.add('focused');
         }
 
         function removeHighlight(event){
             
-            event.currentTarget.style.backgroundColor = '';
+            event.currentTarget.classList.remove('focused');
         }
     }
