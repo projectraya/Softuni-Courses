@@ -1,5 +1,5 @@
 function solve() {
-    const addButtons = document.getElementsByClassName('product-add');
+    const addButtons = Array.from(document.getElementsByClassName('product-add'));
     const checkoutButton = document.getElementsByClassName('checkout')[0];
     const cart = document.querySelector('textarea');
 

@@ -1,5 +1,5 @@
     function focused() {
-        //TODO...
+       
         let listDiv = document.querySelectorAll('div');
 
         for(let element of listDiv){
