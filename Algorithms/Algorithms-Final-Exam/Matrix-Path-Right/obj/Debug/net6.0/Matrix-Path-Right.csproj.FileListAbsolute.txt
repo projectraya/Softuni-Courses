@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path-Right\bin\Debug\net6.0\Matrix-Path-Right.exe
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path-Right\bin\Debug\net6.0\Matrix-Path-Right.deps.json
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path-Right\bin\Debug\net6.0\Matrix-Path-Right.runtimeconfig.json
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path-Right\bin\Debug\net6.0\Matrix-Path-Right.dll
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path-Right\bin\Debug\net6.0\Matrix-Path-Right.pdb
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path-Right\obj\Debug\net6.0\Matrix-Path-Right.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path-Right\obj\Debug\net6.0\Matrix-Path-Right.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path-Right\obj\Debug\net6.0\Matrix-Path-Right.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path-Right\obj\Debug\net6.0\Matrix-Path-Right.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path-Right\obj\Debug\net6.0\Matrix-Path-Right.dll
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path-Right\obj\Debug\net6.0\refint\Matrix-Path-Right.dll
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path-Right\obj\Debug\net6.0\Matrix-Path-Right.pdb
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path-Right\obj\Debug\net6.0\Matrix-Path-Right.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path-Right\obj\Debug\net6.0\ref\Matrix-Path-Right.dll

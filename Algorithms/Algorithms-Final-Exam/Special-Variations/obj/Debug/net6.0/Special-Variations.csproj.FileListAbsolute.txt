@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Special-Variations\bin\Debug\net6.0\Special-Variations.exe
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Special-Variations\bin\Debug\net6.0\Special-Variations.deps.json
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Special-Variations\bin\Debug\net6.0\Special-Variations.runtimeconfig.json
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Special-Variations\bin\Debug\net6.0\Special-Variations.dll
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Special-Variations\bin\Debug\net6.0\Special-Variations.pdb
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Special-Variations\obj\Debug\net6.0\Special-Variations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Special-Variations\obj\Debug\net6.0\Special-Variations.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Special-Variations\obj\Debug\net6.0\Special-Variations.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Special-Variations\obj\Debug\net6.0\Special-Variations.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Special-Variations\obj\Debug\net6.0\Special-Variations.dll
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Special-Variations\obj\Debug\net6.0\refint\Special-Variations.dll
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Special-Variations\obj\Debug\net6.0\Special-Variations.pdb
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Special-Variations\obj\Debug\net6.0\Special-Variations.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Special-Variations\obj\Debug\net6.0\ref\Special-Variations.dll

@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Find-Index\bin\Debug\net6.0\Find-Index.exe
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Find-Index\bin\Debug\net6.0\Find-Index.deps.json
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Find-Index\bin\Debug\net6.0\Find-Index.runtimeconfig.json
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Find-Index\bin\Debug\net6.0\Find-Index.dll
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Find-Index\bin\Debug\net6.0\Find-Index.pdb
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Find-Index\obj\Debug\net6.0\Find-Index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Find-Index\obj\Debug\net6.0\Find-Index.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Find-Index\obj\Debug\net6.0\Find-Index.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Find-Index\obj\Debug\net6.0\Find-Index.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Find-Index\obj\Debug\net6.0\Find-Index.dll
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Find-Index\obj\Debug\net6.0\refint\Find-Index.dll
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Find-Index\obj\Debug\net6.0\Find-Index.pdb
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Find-Index\obj\Debug\net6.0\Find-Index.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Find-Index\obj\Debug\net6.0\ref\Find-Index.dll

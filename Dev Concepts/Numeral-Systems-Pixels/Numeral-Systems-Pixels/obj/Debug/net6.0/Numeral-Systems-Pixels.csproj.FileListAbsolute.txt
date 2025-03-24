@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Numeral-Systems-Pixels\bin\Debug\net6.0\Numeral-Systems-Pixels.exe
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Numeral-Systems-Pixels\bin\Debug\net6.0\Numeral-Systems-Pixels.deps.json
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Numeral-Systems-Pixels\bin\Debug\net6.0\Numeral-Systems-Pixels.runtimeconfig.json
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Numeral-Systems-Pixels\bin\Debug\net6.0\Numeral-Systems-Pixels.dll
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Numeral-Systems-Pixels\bin\Debug\net6.0\Numeral-Systems-Pixels.pdb
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Numeral-Systems-Pixels\obj\Debug\net6.0\Numeral-Systems-Pixels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Numeral-Systems-Pixels\obj\Debug\net6.0\Numeral-Systems-Pixels.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Numeral-Systems-Pixels\obj\Debug\net6.0\Numeral-Systems-Pixels.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Numeral-Systems-Pixels\obj\Debug\net6.0\Numeral-Systems-Pixels.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Numeral-Systems-Pixels\obj\Debug\net6.0\Numeral-Systems-Pixels.dll
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Numeral-Systems-Pixels\obj\Debug\net6.0\refint\Numeral-Systems-Pixels.dll
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Numeral-Systems-Pixels\obj\Debug\net6.0\Numeral-Systems-Pixels.pdb
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Numeral-Systems-Pixels\obj\Debug\net6.0\Numeral-Systems-Pixels.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Numeral-Systems-Pixels\obj\Debug\net6.0\ref\Numeral-Systems-Pixels.dll

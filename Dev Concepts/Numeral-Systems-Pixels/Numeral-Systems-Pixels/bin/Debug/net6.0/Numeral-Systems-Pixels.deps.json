@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Numeral-Systems-Pixels/1.0.0": {
+        "runtime": {
+          "Numeral-Systems-Pixels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Numeral-Systems-Pixels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

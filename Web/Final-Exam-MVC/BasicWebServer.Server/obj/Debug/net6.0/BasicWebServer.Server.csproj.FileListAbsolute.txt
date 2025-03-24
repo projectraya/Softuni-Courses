@@ -1,0 +1,12 @@
+C:\Users\rmink\OneDrive\Desktop\Softuni-Courses\Web\Final-Exam-MVC\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.deps.json
+C:\Users\rmink\OneDrive\Desktop\Softuni-Courses\Web\Final-Exam-MVC\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.dll
+C:\Users\rmink\OneDrive\Desktop\Softuni-Courses\Web\Final-Exam-MVC\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.pdb
+C:\Users\rmink\OneDrive\Desktop\Softuni-Courses\Web\Final-Exam-MVC\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\OneDrive\Desktop\Softuni-Courses\Web\Final-Exam-MVC\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfoInputs.cache
+C:\Users\rmink\OneDrive\Desktop\Softuni-Courses\Web\Final-Exam-MVC\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfo.cs
+C:\Users\rmink\OneDrive\Desktop\Softuni-Courses\Web\Final-Exam-MVC\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.CoreCompileInputs.cache
+C:\Users\rmink\OneDrive\Desktop\Softuni-Courses\Web\Final-Exam-MVC\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.sourcelink.json
+C:\Users\rmink\OneDrive\Desktop\Softuni-Courses\Web\Final-Exam-MVC\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.dll
+C:\Users\rmink\OneDrive\Desktop\Softuni-Courses\Web\Final-Exam-MVC\BasicWebServer.Server\obj\Debug\net6.0\refint\BasicWebServer.Server.dll
+C:\Users\rmink\OneDrive\Desktop\Softuni-Courses\Web\Final-Exam-MVC\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.pdb
+C:\Users\rmink\OneDrive\Desktop\Softuni-Courses\Web\Final-Exam-MVC\BasicWebServer.Server\obj\Debug\net6.0\ref\BasicWebServer.Server.dll

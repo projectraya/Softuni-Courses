@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Final-Term-Panayot\Matrix-Better\bin\Debug\net6.0\Matrix-Better.exe
+C:\Users\rmink\source\repos\Final-Term-Panayot\Matrix-Better\bin\Debug\net6.0\Matrix-Better.deps.json
+C:\Users\rmink\source\repos\Final-Term-Panayot\Matrix-Better\bin\Debug\net6.0\Matrix-Better.runtimeconfig.json
+C:\Users\rmink\source\repos\Final-Term-Panayot\Matrix-Better\bin\Debug\net6.0\Matrix-Better.dll
+C:\Users\rmink\source\repos\Final-Term-Panayot\Matrix-Better\bin\Debug\net6.0\Matrix-Better.pdb
+C:\Users\rmink\source\repos\Final-Term-Panayot\Matrix-Better\obj\Debug\net6.0\Matrix-Better.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Final-Term-Panayot\Matrix-Better\obj\Debug\net6.0\Matrix-Better.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Final-Term-Panayot\Matrix-Better\obj\Debug\net6.0\Matrix-Better.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Final-Term-Panayot\Matrix-Better\obj\Debug\net6.0\Matrix-Better.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Final-Term-Panayot\Matrix-Better\obj\Debug\net6.0\Matrix-Better.dll
+C:\Users\rmink\source\repos\Final-Term-Panayot\Matrix-Better\obj\Debug\net6.0\refint\Matrix-Better.dll
+C:\Users\rmink\source\repos\Final-Term-Panayot\Matrix-Better\obj\Debug\net6.0\Matrix-Better.pdb
+C:\Users\rmink\source\repos\Final-Term-Panayot\Matrix-Better\obj\Debug\net6.0\Matrix-Better.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Final-Term-Panayot\Matrix-Better\obj\Debug\net6.0\ref\Matrix-Better.dll

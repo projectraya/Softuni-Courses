@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\SetBit\bin\Debug\net8.0\SetBit.exe
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\SetBit\bin\Debug\net8.0\SetBit.deps.json
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\SetBit\bin\Debug\net8.0\SetBit.runtimeconfig.json
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\SetBit\bin\Debug\net8.0\SetBit.dll
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\SetBit\bin\Debug\net8.0\SetBit.pdb
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\SetBit\obj\Debug\net8.0\SetBit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\SetBit\obj\Debug\net8.0\SetBit.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\SetBit\obj\Debug\net8.0\SetBit.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\SetBit\obj\Debug\net8.0\SetBit.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\SetBit\obj\Debug\net8.0\SetBit.dll
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\SetBit\obj\Debug\net8.0\refint\SetBit.dll
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\SetBit\obj\Debug\net8.0\SetBit.pdb
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\SetBit\obj\Debug\net8.0\SetBit.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\SetBit\obj\Debug\net8.0\ref\SetBit.dll

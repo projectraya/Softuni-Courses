@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path\bin\Debug\net6.0\Matrix-Path.exe
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path\bin\Debug\net6.0\Matrix-Path.deps.json
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path\bin\Debug\net6.0\Matrix-Path.runtimeconfig.json
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path\bin\Debug\net6.0\Matrix-Path.dll
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path\bin\Debug\net6.0\Matrix-Path.pdb
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path\obj\Debug\net6.0\Matrix-Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path\obj\Debug\net6.0\Matrix-Path.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path\obj\Debug\net6.0\Matrix-Path.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path\obj\Debug\net6.0\Matrix-Path.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path\obj\Debug\net6.0\Matrix-Path.dll
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path\obj\Debug\net6.0\refint\Matrix-Path.dll
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path\obj\Debug\net6.0\Matrix-Path.pdb
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path\obj\Debug\net6.0\Matrix-Path.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Algorithms-Final-Exam\Matrix-Path\obj\Debug\net6.0\ref\Matrix-Path.dll

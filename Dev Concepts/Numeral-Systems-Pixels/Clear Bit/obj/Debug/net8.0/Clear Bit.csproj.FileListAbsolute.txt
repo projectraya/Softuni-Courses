@@ -1,0 +1,14 @@
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Clear Bit\bin\Debug\net8.0\Clear Bit.exe
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Clear Bit\bin\Debug\net8.0\Clear Bit.deps.json
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Clear Bit\bin\Debug\net8.0\Clear Bit.runtimeconfig.json
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Clear Bit\bin\Debug\net8.0\Clear Bit.dll
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Clear Bit\bin\Debug\net8.0\Clear Bit.pdb
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Clear Bit\obj\Debug\net8.0\Clear Bit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Clear Bit\obj\Debug\net8.0\Clear Bit.AssemblyInfoInputs.cache
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Clear Bit\obj\Debug\net8.0\Clear Bit.AssemblyInfo.cs
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Clear Bit\obj\Debug\net8.0\Clear Bit.csproj.CoreCompileInputs.cache
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Clear Bit\obj\Debug\net8.0\Clear Bit.dll
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Clear Bit\obj\Debug\net8.0\refint\Clear Bit.dll
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Clear Bit\obj\Debug\net8.0\Clear Bit.pdb
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Clear Bit\obj\Debug\net8.0\Clear Bit.genruntimeconfig.cache
+C:\Users\rmink\source\repos\Numeral-Systems-Pixels\Clear Bit\obj\Debug\net8.0\ref\Clear Bit.dll
