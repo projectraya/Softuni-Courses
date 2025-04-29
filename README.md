@@ -1,2 +1,2 @@
 # Softuni-Courses
-All of the tasks I have solved at school during the last 3 years.
+Assignments and projects from SoftUni BUDITEL High School.
