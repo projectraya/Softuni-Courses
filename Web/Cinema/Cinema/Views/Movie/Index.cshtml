@@ -1,0 +1,88 @@
+﻿@model IndexViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4 h1">Hello to SoftUni Cinema</h1>
+
+    <div class="row mb-4">
+        <div class="col-md-4">
+            <div class="alert alert-primary h5">
+                <strong>Total Movies:</strong> @Model.TotalMoviesCount
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="alert alert-info h5">
+                <strong>Latest Movie:</strong> @Model.LatestMovieTitle
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="alert alert-info h5">
+                <strong>Oldest Movie:</strong> @Model.OldestMovieTitle
+            </div>
+        </div>
+    </div>
+    <div class="row mb-4">
+        <div class="col-md-4">
+            <div class="alert alert-success h5">
+                <strong>Most Liked Movie:</strong> @Model.MostLikedMovieTitle
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="alert alert-success h5">
+                <strong>Most Liked Genre:</strong> @Model.MostLikedGenre
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="alert alert-success h5">
+                <strong>Most Liked Director:</strong> @Model.MostLikedDirector
+            </div>
+        </div>
+    </div>
+
+    @if (!Model.AllMovies.Any())
+    {
+        <div class="alert alert-warning text-center">No movies available at the moment.</div>
+    }
+    else
+    {
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            @foreach (var movie in Model.AllMovies)
+            {
+                <div class="col">
+                    <div class="card h-100 shadow-sm">
+                        <img src="@movie.Poster" class="card-img-top" alt="@movie.Title" style="height: 300px; object-fit: cover;">
+                        <div class="card-body">
+                            <h5 class="card-title">@movie.Title</h5>
+                            <p class="card-text d-flex justify-content-between">
+                                <span><strong>Year:</strong> @movie.YearPublished</span>
+                                <span><strong class="text-danger"><i class="bi bi-heart-fill"></i></strong> @movie.Likes</span>
+                            </p>
+                            <div class="d-flex justify-content-end gap-2 mt-2">
+                                <a asp-controller="Movie" asp-action="Like" asp-route-id="@movie.Id" class="btn btn-outline-success btn-sm">
+                                    <i class="bi bi-hand-thumbs-up"></i>
+                                </a>
+                                <a asp-controller="Movie" asp-action="Dislike" asp-route-id="@movie.Id" class="btn btn-outline-danger btn-sm">
+                                    <i class="bi bi-hand-thumbs-down"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between gap-2">
+                            <a asp-controller="Movie" asp-action="Details" asp-route-id="@movie.Id" class="btn btn-primary btn-sm flex-fill">
+                                <i class="bi bi-info-square"></i> Details
+                            </a>
+                            <a asp-controller="Movie" asp-action="Edit" asp-route-id="@movie.Id" class="btn btn-warning btn-sm flex-fill">
+                                <i class="bi bi-pencil-square"></i> Edit
+                            </a>
+                            <a asp-controller="Movie" asp-action="Delete" asp-route-id="@movie.Id" class="btn btn-danger btn-sm flex-fill">
+                                <i class="bi bi-trash3"></i> Delete
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>

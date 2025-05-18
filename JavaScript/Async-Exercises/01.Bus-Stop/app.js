@@ -6,6 +6,8 @@ async function getInfo() {
     
     buses.innerHTML = "";
 
+    //we use try catch construct to be prepared to handle errors
+    //we can also use async await to 
     try{
         const res = await fetch(`${BASE_URL}${stopId}`);
         const data = await res.json();
@@ -19,6 +21,8 @@ async function getInfo() {
     catch(err) {
         stopName.textContent = "Error";
     }
+
+    //otherwise, we can use the fetch construct
 
     // fetch(`${BASE_URL}${stopId}`)
     //     .then(res => {

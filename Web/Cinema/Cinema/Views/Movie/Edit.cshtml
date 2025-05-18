@@ -1,0 +1,62 @@
+﻿@model MovieFormModel
+
+@{
+    ViewData["Title"] = "Edit Movie";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4 text-center">Edit Movie</h2>
+
+    <form asp-action="Edit" method="post" class="card shadow-sm p-4">
+        <div class="mb-3">
+            <input asp-for="Id" hidden class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Title" class="form-label"></label>
+            <input asp-for="Title" class="form-control" />
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Poster" class="form-label"></label>
+            <input asp-for="Poster" class="form-control" />
+            <span asp-validation-for="Poster" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="YearPublished" class="form-label"></label>
+            <input asp-for="YearPublished" class="form-control" type="number" min="1950" max="@DateTime.UtcNow.Year" />
+            <span asp-validation-for="YearPublished" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label"></label>
+            <textarea asp-for="Description" class="form-control"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="DirectorFullName" class="form-label"></label>
+            <input asp-for="DirectorFullName" class="form-control" />
+            <span asp-validation-for="DirectorFullName" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="GenreName" class="form-label"></label>
+            <input asp-for="GenreName" class="form-control" />
+            <span asp-validation-for="GenreName" class="text-danger"></span>
+        </div>
+
+        <div class="text-center">
+            <button type="submit" class="btn btn-primary">
+                <i class="bi bi-pencil-square"></i> Save Changes
+            </button>
+            <a asp-controller="Movie" asp-action="Index" class="btn btn-secondary ms-2"><i class="bi bi-x-square"></i> Cancel</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

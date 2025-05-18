@@ -1,0 +1,44 @@
+﻿@model HomePageViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Hello to SoftUni Library</h1>
+
+    <div class="row mb-4">
+        <div class="col-md-6">
+            <div class="alert alert-info">
+                <strong>Total Books:</strong> @Model.BooksCount
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="alert alert-success">
+                <strong>Latest Book:</strong> @Model.LatestBookTitle
+            </div>
+        </div>
+    </div>
+
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        @foreach (var book in Model.AllBooks)
+        {
+            <div class="col">
+                <div class="card h-100 shadow-sm">
+                    <img src="@book.ImageUrl" class="card-img-top" alt="@book.Title" style="height: 300px; object-fit: cover;">
+                    <div class="card-body">
+                        <h5 class="card-title">@book.Title</h5>
+                        <p class="card-text">
+                            <strong>Year:</strong> @book.YearPublished
+                        </p>
+                    </div>
+                    <div class="card-footer text-center">
+                        <a asp-controller="Home" asp-action="Details" asp-route-id="@book.Id" class ="btn btn-primary btn-sm">Details</a>
+                        <a asp-controller="Home" asp-action="Edit" asp-route-id="@book.Id" class="btn btn-warning btn-sm">Edit</a>
+                        <a asp-controller="Home" asp-action="Delete" asp-route-id="@book.Id" class ="btn btn-danger btn-sm">Delete</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

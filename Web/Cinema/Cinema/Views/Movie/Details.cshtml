@@ -1,0 +1,37 @@
+﻿@model MovieDetailsModel
+
+@{
+    ViewData["Title"] = "Movie Details";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm">
+                <img src="@Model.Poster" class="card-img-top" alt="@Model.Title" style="height: 400px; object-fit: cover;" />
+
+                <div class="card-body alert-secondary text-dark">
+                    <h2 class="card-title text-center h2">@Model.Title</h2>
+                    <hr />
+                    <p class="card-text"><strong class="h5">Director:</strong> @Model.DirectorFullName</p>
+                    <p class="card-text"><strong class="h5">Genre:</strong> @Model.GenreName</p>
+                    <p class="card-text"><strong class="h5">Premiered On:</strong> @Model.YearPublished</p>
+                    <p class="card-text"><strong class="h5">Description:</strong> @Model.Description</p>
+                    <p class="card-text h5 mb-1 text-start">
+                        <strong class="text-danger"><i class="bi bi-heart-fill"></i></strong> @Model.Likes
+                        <a asp-controller="Movie" asp-action="Like" asp-route-id="@Model.Id" class="btn btn-outline-success btn-sm">
+                            <i class="bi bi-hand-thumbs-up"></i>
+                        </a>
+                        <a asp-controller="Movie" asp-action="Dislike" asp-route-id="@Model.Id" class="btn btn-outline-danger btn-sm">
+                            <i class="bi bi-hand-thumbs-down"></i>
+                        </a>
+                    </p>
+                </div>
+
+                <div class="card-footer text-center">
+                    <a asp-controller="Movie" asp-action="Index" class="btn btn-secondary"><i class="bi bi-arrow-left-square"></i> Back to Cinema</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
